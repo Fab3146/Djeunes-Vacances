@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  color: #17212b;
+  background:
+    linear-gradient(130deg, rgba(18, 107, 100, 0.10), transparent 30%),
+    linear-gradient(315deg, rgba(223, 100, 74, 0.10), transparent 28%),
+    #f8f6ef;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+}
+
+textarea {
+  resize: vertical;
+}
+
+::selection {
+  color: white;
+  background: #126b64;
+}
+
+@layer components {
+  .shell {
+    @apply mx-auto w-full max-w-7xl px-4 py-5 sm:px-6 lg:px-8;
+  }
+
+  .panel {
+    @apply rounded-lg border border-black/10 bg-white/90 p-4 shadow-soft;
+  }
+
+  .soft-panel {
+    @apply rounded-lg border border-black/10 bg-white/70 p-4;
+  }
+
+  .section-title {
+    @apply text-xl font-black tracking-normal text-ink sm:text-2xl;
+  }
+
+  .eyebrow {
+    @apply text-xs font-black uppercase tracking-[0.08em] text-coral;
+  }
+
+  .field {
+    @apply grid gap-1.5 text-sm font-bold text-muted;
+  }
+
+  .input {
+    @apply min-h-11 rounded-md border border-black/15 bg-white px-3 py-2 text-sm font-semibold text-ink outline-none transition focus:border-lagoon focus:ring-4 focus:ring-lagoon/15;
+  }
+
+  .button-primary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-md bg-lagoon px-4 py-2 text-sm font-black text-white transition hover:bg-[#0d5550];
+  }
+
+  .button-secondary {
+    @apply inline-flex min-h-11 items-center justify-center gap-2 rounded-md border border-black/10 bg-white px-4 py-2 text-sm font-black text-ink transition hover:border-lagoon/40 hover:bg-lagoon/5;
+  }
+
+  .chip {
+    @apply inline-flex min-h-8 items-center justify-center rounded-full border border-black/10 bg-white px-3 text-xs font-black text-muted;
+  }
+
+  .score-cell {
+    @apply min-h-14 rounded-md border border-black/10 p-2 text-xs font-black;
+  }
+}
