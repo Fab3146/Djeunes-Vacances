@@ -4,3 +4,8 @@ node_modules
 .env
 dist
 *.log
+*.swp
+voyage-djeunes-mvp.zip
+index.html
+app.js
+styles.css
