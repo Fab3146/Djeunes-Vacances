@@ -8,12 +8,14 @@ create extension if not exists pgcrypto;
 create extension if not exists pg_trgm;
 
 create or replace function set_updated_at()
-returns trigger as $$
+returns trigger
+language plpgsql
+as $$
 begin
   new.updated_at = now();
   return new;
 end;
-$$ language plpgsql;
+$$;
 
 create table if not exists trips (
   id uuid primary key default gen_random_uuid(),
