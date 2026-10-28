@@ -10,7 +10,11 @@ export async function GET(_req: NextRequest, {params}: {params: Promise<{slug: s
 }
 async function mutate(req: NextRequest, slug: string, restore: boolean) {
   if (!validSlug(slug)) return json({error: "Voyage introuvable."}, 404);
-  if (req.headers.get("origin") !== new URL(req.url).origin || req.headers.get("x-argentine-client") !== "1") return json({error: "Origine non autorisée."}, 403);
+  // Next can normalize req.url to localhost internally; Host retains the
+  // public authority the browser actually contacted (including its port).
+  const authority = req.headers.get("host");
+  const publicOrigin = authority ? `${new URL(req.url).protocol}//${authority}` : null;
+  if (!publicOrigin || req.headers.get("origin") !== publicOrigin || req.headers.get("x-argentine-client") !== "1") return json({error: "Origine non autorisée."}, 403);
   if (!req.headers.get("content-type")?.startsWith("application/json")) return json({error: "Format invalide."}, 415);
   try {
     const text = await req.text();if (text.length > 150000) return json({error: "Sauvegarde trop volumineuse."}, 413);
