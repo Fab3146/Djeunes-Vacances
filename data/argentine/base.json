@@ -1,0 +1,2947 @@
+{
+  "destinations": [
+    {
+      "id": "ba",
+      "name": "Buenos Aires",
+      "region": "Buenos Aires",
+      "lat": -34.6037,
+      "lon": -58.3816,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "night"
+      ],
+      "intro": "Des façades colorées, des cafés qui prennent leur temps et des soirées qui débordent. Le point de départ de votre aventure.",
+      "feb": "Été chaud et parfois humide. Garder les balades pour le matin et la fin de journée.",
+      "activities": [
+        {
+          "name": "San Telmo & Plaza de Mayo",
+          "hours": 3,
+          "tip": "Flâner dans le quartier historique ; le marché couvert se visite aussi en semaine."
+        },
+        {
+          "name": "La Boca & Caminito",
+          "hours": 2,
+          "tip": "Couleurs et art de rue, à découvrir en journée."
+        },
+        {
+          "name": "Palermo, parrilla & tango",
+          "hours": 4,
+          "tip": "Choisir une bonne table et réserver ensemble pour neuf."
+        }
+      ]
+    },
+    {
+      "id": "tigre",
+      "name": "Tigre & le delta",
+      "region": "Buenos Aires",
+      "lat": -34.425,
+      "lon": -58.579,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "relax",
+        "wildlife"
+      ],
+      "intro": "Quitter la ville pour un labyrinthe de rivières, de pontons et de maisons sur pilotis.",
+      "feb": "Chaleur et moustiques : privilégier une sortie matinale sur l’eau.",
+      "activities": [
+        {
+          "name": "Navigation dans le delta",
+          "hours": 3,
+          "tip": "Excursion en bateau sur les bras du Paraná ; activité locale, distincte des transferts en voiture."
+        },
+        {
+          "name": "Paseo Victorica",
+          "hours": 2,
+          "tip": "Promenade sur les quais et déjeuner au bord de l’eau."
+        },
+        {
+          "name": "Puerto de Frutos",
+          "hours": 2,
+          "tip": "Artisanat, petites boutiques et pause à l’ombre."
+        }
+      ]
+    },
+    {
+      "id": "areco",
+      "name": "San Antonio de Areco",
+      "region": "Buenos Aires",
+      "lat": -34.251,
+      "lon": -59.472,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "relax"
+      ],
+      "intro": "Une parenthèse dans la pampa : traditions gauchas, ateliers d’orfèvres et grandes tablées.",
+      "feb": "L’été peut être très chaud : prévoir les activités rurales tôt dans la journée.",
+      "activities": [
+        {
+          "name": "Village & ateliers d’artisans",
+          "hours": 2,
+          "tip": "Découvrir le centre historique à pied."
+        },
+        {
+          "name": "Journée en estancia",
+          "hours": 6,
+          "tip": "Asado et découverte de la vie rurale ; réserver pour le groupe."
+        },
+        {
+          "name": "Berges du río Areco",
+          "hours": 1.5,
+          "tip": "Fin de journée tranquille près du vieux pont."
+        }
+      ]
+    },
+    {
+      "id": "chascomus",
+      "name": "Chascomús",
+      "region": "Buenos Aires",
+      "lat": -35.575,
+      "lon": -58.008,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "nature",
+        "culture"
+      ],
+      "intro": "Une lagune immense, une petite ville tranquille et une première escale pour ralentir.",
+      "feb": "Soleil et fréquentation estivale autour de la lagune ; baignade selon les conditions locales.",
+      "activities": [
+        {
+          "name": "Promenade au bord de la lagune",
+          "hours": 2,
+          "tip": "Marcher ou louer des vélos pour une portion des berges."
+        },
+        {
+          "name": "Centre historique",
+          "hours": 1.5,
+          "tip": "La place et les ruelles se découvrent facilement à pied."
+        },
+        {
+          "name": "Coucher de soleil sur la lagune",
+          "hours": 1,
+          "tip": "Prévoir le pique-nique et un moment sans programme."
+        }
+      ]
+    },
+    {
+      "id": "tandil",
+      "name": "Tandil",
+      "region": "Buenos Aires",
+      "lat": -37.321,
+      "lon": -59.133,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "hike",
+        "nature",
+        "food"
+      ],
+      "intro": "Des collines arrondies, des rochers surprenants et une belle excuse pour goûter les fromages locaux.",
+      "feb": "Partir tôt pour marcher ; les collines sont exposées au soleil.",
+      "activities": [
+        {
+          "name": "Cerro El Centinela",
+          "hours": 3,
+          "tip": "Balade et points de vue ; remontée mécanique en option selon ouverture."
+        },
+        {
+          "name": "Parque Independencia & Lago del Fuerte",
+          "hours": 2,
+          "tip": "Une promenade douce entre vue panoramique et lac."
+        },
+        {
+          "name": "Dégustation de produits de Tandil",
+          "hours": 2,
+          "tip": "Fromages et charcuteries à partager en fin de journée."
+        }
+      ]
+    },
+    {
+      "id": "pinamar",
+      "name": "Pinamar",
+      "region": "Buenos Aires",
+      "lat": -37.108,
+      "lon": -56.861,
+      "days": [
+        2,
+        4
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "night",
+        "nature"
+      ],
+      "intro": "Océan, dunes et pinèdes : une étape balnéaire où alterner plage et terrasses.",
+      "feb": "Haute saison : plages fréquentées et hébergements à anticiper pour neuf.",
+      "activities": [
+        {
+          "name": "Journée à la plage",
+          "hours": 5,
+          "tip": "Garder un créneau libre ; se baigner dans les zones surveillées."
+        },
+        {
+          "name": "Initiation au surf",
+          "hours": 2,
+          "tip": "Réserver un cours adapté au niveau et à la météo."
+        },
+        {
+          "name": "Balade entre pins & cafés",
+          "hours": 2,
+          "tip": "Une fin d’après-midi à pied avant de dîner ensemble."
+        }
+      ]
+    },
+    {
+      "id": "carilo",
+      "name": "Cariló",
+      "region": "Buenos Aires",
+      "lat": -37.166,
+      "lon": -56.892,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "nature",
+        "food"
+      ],
+      "intro": "Des rues sablonneuses sous les pins, la plage à deux pas et une ambiance de vacances paisible.",
+      "feb": "Village prisé en été. Les journées plage dépendent du vent.",
+      "activities": [
+        {
+          "name": "Plage de Cariló",
+          "hours": 4,
+          "tip": "Poser les serviettes et profiter sans courir."
+        },
+        {
+          "name": "Promenade dans la pinède",
+          "hours": 2,
+          "tip": "Sentiers et rues ombragées à parcourir doucement."
+        },
+        {
+          "name": "Village & dîner en terrasse",
+          "hours": 2,
+          "tip": "Comparer les tables et réserver un grand espace."
+        }
+      ]
+    },
+    {
+      "id": "mardel",
+      "name": "Mar del Plata",
+      "region": "Buenos Aires",
+      "lat": -38.005,
+      "lon": -57.543,
+      "days": [
+        2,
+        4
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "night",
+        "food"
+      ],
+      "intro": "L’Atlantique en version animée : promenades en bord de mer, surf et longues soirées.",
+      "feb": "Pleine saison balnéaire ; circulation plus dense à l’entrée de la ville.",
+      "activities": [
+        {
+          "name": "Playa Grande & promenade côtière",
+          "hours": 3,
+          "tip": "Marcher au bord de l’océan et choisir une plage surveillée."
+        },
+        {
+          "name": "Port & déjeuner de poissons",
+          "hours": 2,
+          "tip": "Découvrir l’ambiance du port et les tables de produits de la mer."
+        },
+        {
+          "name": "Surf ou soirée dans Güemes",
+          "hours": 3,
+          "tip": "Deux ambiances à départager selon les envies du groupe."
+        }
+      ]
+    },
+    {
+      "id": "necochea",
+      "name": "Necochea",
+      "region": "Buenos Aires",
+      "lat": -38.555,
+      "lon": -58.74,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "nature",
+        "hike"
+      ],
+      "intro": "De longues plages, des dunes et un grand parc pour une escale tournée vers le grand air.",
+      "feb": "Vent possible sur la côte ; garder une alternative dans le parc.",
+      "activities": [
+        {
+          "name": "Plages de Necochea",
+          "hours": 4,
+          "tip": "Choisir un secteur surveillé et une journée peu venteuse."
+        },
+        {
+          "name": "Parque Miguel Lillo",
+          "hours": 2,
+          "tip": "Balade à l’ombre, à pied ou à vélo."
+        },
+        {
+          "name": "Quequén & front de mer",
+          "hours": 2,
+          "tip": "Découvrir l’autre rive et les paysages du littoral."
+        }
+      ]
+    },
+    {
+      "id": "rosario",
+      "name": "Rosario",
+      "region": "Córdoba & centre",
+      "lat": -32.947,
+      "lon": -60.639,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "night",
+        "food"
+      ],
+      "intro": "Une ville ouverte sur le Paraná, avec des quais vivants et de belles pauses entre deux routes.",
+      "feb": "Été chaud : découvrir les quais en fin de journée.",
+      "activities": [
+        {
+          "name": "Monumento a la Bandera",
+          "hours": 1.5,
+          "tip": "Point de repère monumental près du fleuve."
+        },
+        {
+          "name": "Quais du Paraná",
+          "hours": 2,
+          "tip": "Promenade et terrasses pour une étape sans voiture."
+        },
+        {
+          "name": "Boulevard Oroño & Pichincha",
+          "hours": 2,
+          "tip": "Architecture, cafés et dîner dans un quartier vivant."
+        }
+      ]
+    },
+    {
+      "id": "cordoba",
+      "name": "Córdoba",
+      "region": "Córdoba & centre",
+      "lat": -31.417,
+      "lon": -64.184,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "night"
+      ],
+      "intro": "Patrimoine jésuite, patios et énergie étudiante au pied des sierras.",
+      "feb": "Journées chaudes avec des orages possibles ; alterner patrimoine et pauses à l’intérieur.",
+      "activities": [
+        {
+          "name": "Manzana Jesuítica",
+          "hours": 2,
+          "tip": "Découvrir le patrimoine jésuite ; vérifier les horaires des visites."
+        },
+        {
+          "name": "Plaza San Martín & cathédrale",
+          "hours": 2,
+          "tip": "Un parcours facile dans le centre historique."
+        },
+        {
+          "name": "Barrio Güemes",
+          "hours": 3,
+          "tip": "Petites adresses, artisanat et soirée autour d’une table."
+        }
+      ]
+    },
+    {
+      "id": "carlospaz",
+      "name": "Villa Carlos Paz",
+      "region": "Córdoba & centre",
+      "lat": -31.42,
+      "lon": -64.499,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "night",
+        "nature"
+      ],
+      "intro": "Une base animée au bord du lac San Roque pour goûter aux paysages des sierras.",
+      "feb": "Haute saison estivale et spectacles nombreux ; baignade selon les zones autorisées.",
+      "activities": [
+        {
+          "name": "Rives du lac San Roque",
+          "hours": 2,
+          "tip": "Promenade tranquille au bord du lac."
+        },
+        {
+          "name": "Cerro de la Cruz",
+          "hours": 3,
+          "tip": "Montée à pied avec dénivelé ; partir tôt et adapter au groupe."
+        },
+        {
+          "name": "Centre & soirée spectacle",
+          "hours": 3,
+          "tip": "Une alternative animée aux soirées plus calmes des villages."
+        }
+      ]
+    },
+    {
+      "id": "calamuchita",
+      "name": "Vallée de Calamuchita",
+      "region": "Córdoba & centre",
+      "lat": -31.977,
+      "lon": -64.559,
+      "days": [
+        2,
+        4
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "relax"
+      ],
+      "intro": "Des rivières, des villages et des sierras. Une base agréable pour alterner petites aventures et repos.",
+      "feb": "Orages d’été possibles : éviter les rivières en crue et adapter les sorties.",
+      "activities": [
+        {
+          "name": "Villa General Belgrano",
+          "hours": 2,
+          "tip": "Village, cafés et spécialités d’inspiration européenne."
+        },
+        {
+          "name": "La Cumbrecita",
+          "hours": 6,
+          "tip": "Excursion à la journée ; compter environ 2 h aller-retour de route locale.",
+          "driveMinutes": 120
+        },
+        {
+          "name": "Rivière & balade douce",
+          "hours": 3,
+          "tip": "Choisir un accès autorisé en fonction du niveau de l’eau."
+        }
+      ]
+    },
+    {
+      "id": "merlo",
+      "name": "Villa de Merlo",
+      "region": "Cuyo",
+      "lat": -32.342,
+      "lon": -65.013,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "relax"
+      ],
+      "intro": "Les sierras de Comechingones à l’horizon et des panoramas pour prendre un peu de hauteur.",
+      "feb": "Chaleur dans la vallée, orages possibles ; garder de la souplesse pour les sommets.",
+      "activities": [
+        {
+          "name": "Mirador del Sol",
+          "hours": 3,
+          "tip": "Route panoramique ; compter environ 1 h 30 de conduite locale aller-retour.",
+          "driveMinutes": 90
+        },
+        {
+          "name": "Balade dans les sierras",
+          "hours": 3,
+          "tip": "Choisir un sentier adapté, sans s’engager si un orage approche."
+        },
+        {
+          "name": "Centre de Merlo",
+          "hours": 2,
+          "tip": "Pause ombragée, artisanat et dîner tranquille."
+        }
+      ]
+    },
+    {
+      "id": "sanluis",
+      "name": "San Luis",
+      "region": "Cuyo",
+      "lat": -33.302,
+      "lon": -66.337,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "nature",
+        "relax"
+      ],
+      "intro": "Une escale utile entre la pampa et les Andes, avec des paysages de sierras à proximité.",
+      "feb": "Été chaud : garder cette étape légère après la route.",
+      "activities": [
+        {
+          "name": "Centre & place Pringles",
+          "hours": 1.5,
+          "tip": "Se dégourdir les jambes après le trajet."
+        },
+        {
+          "name": "Potrero de los Funes",
+          "hours": 4,
+          "tip": "Excursion au lac ; environ 1 h 15 aller-retour de conduite locale.",
+          "driveMinutes": 75
+        },
+        {
+          "name": "Dîner & soirée au calme",
+          "hours": 2,
+          "tip": "Une vraie pause avant de repartir vers l’ouest."
+        }
+      ]
+    },
+    {
+      "id": "riocuarto",
+      "name": "Río Cuarto",
+      "region": "Córdoba & centre",
+      "lat": -33.123,
+      "lon": -64.349,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "relax"
+      ],
+      "intro": "Une halte de liaison pour couper la traversée du centre argentin et garder des journées de route raisonnables.",
+      "feb": "Chaleur estivale : une courte promenade suffit après le trajet.",
+      "activities": [
+        {
+          "name": "Plaza Roca & centre",
+          "hours": 1.5,
+          "tip": "Petite balade pour découvrir la ville."
+        },
+        {
+          "name": "Dîner dans le centre",
+          "hours": 2,
+          "tip": "Une étape pratique pour réunir le groupe."
+        },
+        {
+          "name": "Matinée tranquille",
+          "hours": 1,
+          "tip": "Café, courses et préparation de la route suivante."
+        }
+      ],
+      "transit": true
+    },
+    {
+      "id": "mendoza",
+      "name": "Mendoza",
+      "region": "Cuyo",
+      "lat": -32.89,
+      "lon": -68.844,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 0,
+      "tags": [
+        "food",
+        "nature",
+        "culture"
+      ],
+      "intro": "Des places ombragées, des bodegas et les Andes en toile de fond. Une étape à savourer lentement.",
+      "feb": "Été sec et chaud ; réserver les visites de domaines et organiser les conducteurs.",
+      "activities": [
+        {
+          "name": "Parque General San Martín",
+          "hours": 2,
+          "tip": "Grande promenade dans un parc emblématique."
+        },
+        {
+          "name": "Bodegas de Maipú ou Luján de Cuyo",
+          "hours": 6,
+          "tip": "Visites sur réservation ; conducteur sobre ou excursion avec chauffeur.",
+          "driveMinutes": 120
+        },
+        {
+          "name": "Places & dîner à Mendoza",
+          "hours": 3,
+          "tip": "Prendre le temps du centre et de la gastronomie locale."
+        }
+      ]
+    },
+    {
+      "id": "potrerillos",
+      "name": "Potrerillos",
+      "region": "Cuyo",
+      "lat": -32.951,
+      "lon": -69.207,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "relax"
+      ],
+      "intro": "Un lac turquoise au pied des montagnes, à découvrir pour les paysages ou les activités sur l’eau.",
+      "feb": "Soleil fort et vent : activités nautiques à confirmer avec les prestataires.",
+      "activities": [
+        {
+          "name": "Points de vue sur le lac",
+          "hours": 2,
+          "tip": "Profiter du paysage sans forcément prévoir une activité sportive."
+        },
+        {
+          "name": "Rafting accompagné",
+          "hours": 4,
+          "tip": "Selon niveau, débit et disponibilité ; réservation pour neuf."
+        },
+        {
+          "name": "Balade dans les alentours",
+          "hours": 3,
+          "tip": "Prévoir eau et ombre limitée sur les sentiers."
+        }
+      ]
+    },
+    {
+      "id": "uspallata",
+      "name": "Uspallata",
+      "region": "Cuyo",
+      "lat": -32.594,
+      "lon": -69.349,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "culture"
+      ],
+      "intro": "Une vallée andine ouverte sur des paysages minéraux et la route de la haute montagne.",
+      "feb": "Amplitude thermique et altitude : prévoir une journée souple en montagne.",
+      "activities": [
+        {
+          "name": "Vallée d’Uspallata",
+          "hours": 3,
+          "tip": "Explorer les paysages proches avec des arrêts photo."
+        },
+        {
+          "name": "Puente del Inca & vue sur l’Aconcagua",
+          "hours": 7,
+          "tip": "Excursion : environ 3 h de route locale aller-retour, accès selon conditions.",
+          "driveMinutes": 180
+        },
+        {
+          "name": "Bóvedas d’Uspallata",
+          "hours": 1.5,
+          "tip": "Une pause culturelle pour découvrir l’histoire de la vallée."
+        }
+      ]
+    },
+    {
+      "id": "sanrafael",
+      "name": "San Rafael",
+      "region": "Cuyo",
+      "lat": -34.618,
+      "lon": -68.331,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "food",
+        "hike"
+      ],
+      "intro": "Entre vignobles et canyons, une autre porte d’entrée vers les grands paysages de Cuyo.",
+      "feb": "Chaleur : réserver les activités nautiques et éviter les randonnées à midi.",
+      "activities": [
+        {
+          "name": "Valle Grande",
+          "hours": 5,
+          "tip": "Lac et paysages du río Atuel ; environ 1 h 30 de route locale aller-retour.",
+          "driveMinutes": 90
+        },
+        {
+          "name": "Bodega & produits locaux",
+          "hours": 3,
+          "tip": "Prévoir un conducteur sobre."
+        },
+        {
+          "name": "Cañón del Atuel",
+          "hours": 8,
+          "tip": "Longue excursion en voiture : prévoir environ 4 h de route locale, à vérifier avant de partir.",
+          "driveMinutes": 240
+        }
+      ]
+    },
+    {
+      "id": "colon",
+      "name": "Colón",
+      "region": "Litoral",
+      "lat": -32.224,
+      "lon": -58.143,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "nature",
+        "food"
+      ],
+      "intro": "Berges de l’Uruguay, thermes et vie tranquille : une première base dans le Litoral.",
+      "feb": "Chaud et humide ; profiter des berges en dehors des heures les plus chaudes.",
+      "activities": [
+        {
+          "name": "Berges du río Uruguay",
+          "hours": 2,
+          "tip": "Promenade et plage seulement dans les secteurs ouverts et surveillés."
+        },
+        {
+          "name": "Thermes de Colón",
+          "hours": 4,
+          "tip": "Un après-midi détente ; vérifier les horaires et réserver si nécessaire."
+        },
+        {
+          "name": "Centre & produits régionaux",
+          "hours": 2,
+          "tip": "Balade et dîner sans programme serré."
+        }
+      ]
+    },
+    {
+      "id": "palmar",
+      "name": "Parc El Palmar",
+      "region": "Litoral",
+      "lat": -31.866,
+      "lon": -58.214,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "wildlife",
+        "hike"
+      ],
+      "intro": "Des palmiers yatay, de grands ciels et la possibilité de croiser des capybaras.",
+      "feb": "Chaleur et insectes : matin ou fin de journée pour les sentiers.",
+      "activities": [
+        {
+          "name": "Sentiers de la palmeraie",
+          "hours": 3,
+          "tip": "Choisir un circuit ouvert auprès du parc."
+        },
+        {
+          "name": "Observation de la faune",
+          "hours": 2,
+          "tip": "Prendre des jumelles ; aucune observation n’est garantie."
+        },
+        {
+          "name": "Berges & patrimoine du parc",
+          "hours": 2,
+          "tip": "Combiner un point de vue et les vestiges historiques accessibles."
+        }
+      ],
+      "overnight": "Dormir à Ubajay ou près du parc ; les disponibilités ne sont pas vérifiées."
+    },
+    {
+      "id": "federacion",
+      "name": "Federación",
+      "region": "Litoral",
+      "lat": -30.985,
+      "lon": -57.922,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "nature",
+        "food"
+      ],
+      "intro": "Une étape de détente au bord du lac Salto Grande, connue pour son parc thermal.",
+      "feb": "Période chaude : alterner thermes, ombre et temps libre.",
+      "activities": [
+        {
+          "name": "Parc thermal",
+          "hours": 4,
+          "tip": "Choisir les bassins adaptés à la température du jour."
+        },
+        {
+          "name": "Costanera de Federación",
+          "hours": 2,
+          "tip": "Promenade au bord du lac en soirée."
+        },
+        {
+          "name": "Journée libre au lac",
+          "hours": 4,
+          "tip": "Pause détente et pique-nique, selon les secteurs ouverts."
+        }
+      ]
+    },
+    {
+      "id": "ibera",
+      "name": "Esteros del Iberá",
+      "region": "Litoral",
+      "lat": -28.538,
+      "lon": -57.171,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 0,
+      "tags": [
+        "wildlife",
+        "nature",
+        "relax"
+      ],
+      "intro": "Une immense zone humide pour observer oiseaux, caïmans et capybaras depuis Carlos Pellegrini.",
+      "feb": "Chaud, humide, averses possibles. La piste depuis Mercedes dépend de son état.",
+      "activities": [
+        {
+          "name": "Sortie en bateau sur la lagune",
+          "hours": 3,
+          "tip": "Guide local et réservation pour neuf ; animaux sauvages non garantis."
+        },
+        {
+          "name": "Sentiers & observation des oiseaux",
+          "hours": 3,
+          "tip": "Partir tôt avec jumelles et répulsif."
+        },
+        {
+          "name": "Coucher de soleil sur les esteros",
+          "hours": 2,
+          "tip": "Garder une soirée libre près de l’eau."
+        }
+      ],
+      "roadNote": "Accès via Mercedes : 120 km, dont une portion de piste. Vérifier l’état et le contrat de location."
+    },
+    {
+      "id": "iguazu",
+      "name": "Chutes d’Iguazú",
+      "region": "Litoral",
+      "lat": -25.598,
+      "lon": -54.575,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "wildlife",
+        "hike"
+      ],
+      "intro": "Des passerelles au-dessus de l’eau, une forêt foisonnante et des chutes qui occupent tout le paysage.",
+      "feb": "Chaleur humide et fortes averses possibles ; ouverture des passerelles à vérifier.",
+      "activities": [
+        {
+          "name": "Passerelles côté argentin",
+          "hours": 7,
+          "tip": "Une journée entière ; accès des circuits selon les conditions."
+        },
+        {
+          "name": "Garganta del Diablo",
+          "hours": 3,
+          "tip": "Intégrable à la journée de visite si le circuit est ouvert."
+        },
+        {
+          "name": "Observation dans la forêt",
+          "hours": 2,
+          "tip": "Oiseaux et faune, sans nourrir les animaux."
+        }
+      ],
+      "distant": true,
+      "roadNote": "En voiture depuis Buenos Aires, le circuit Iguazú et missions demande au moins 14 nuits sur place et certaines journées dépassent 5 heures au volant."
+    },
+    {
+      "id": "salta",
+      "name": "Salta",
+      "region": "Nord-Ouest",
+      "lat": -24.788,
+      "lon": -65.411,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "nature"
+      ],
+      "intro": "Architecture coloniale, empanadas et musique : une porte d’entrée vers le Nord-Ouest.",
+      "feb": "Saison des pluies ; les excursions routières demandent de la souplesse.",
+      "activities": [
+        {
+          "name": "Centre historique",
+          "hours": 3,
+          "tip": "Places, cathédrale et rues coloniales."
+        },
+        {
+          "name": "Cerro San Bernardo",
+          "hours": 3,
+          "tip": "Panorama sur la ville, à pied ou en téléphérique selon ouverture."
+        },
+        {
+          "name": "Peña & cuisine salteña",
+          "hours": 3,
+          "tip": "Réserver une table pour la musique et les spécialités."
+        }
+      ],
+      "distant": true,
+      "roadNote": "Le circuit du Nord depuis Buenos Aires demande au moins 14 nuits sur place et plusieurs liaisons de plus de 5 heures."
+    },
+    {
+      "id": "cafayate",
+      "name": "Cafayate",
+      "region": "Nord-Ouest",
+      "lat": -26.073,
+      "lon": -65.976,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "food",
+        "nature",
+        "culture"
+      ],
+      "intro": "Des vignobles d’altitude et des formations rouges qui donnent envie de s’arrêter à chaque virage.",
+      "feb": "Pluies estivales possibles : consulter l’état des routes avant les excursions.",
+      "activities": [
+        {
+          "name": "Quebrada de las Conchas",
+          "hours": 6,
+          "tip": "Excursion avec arrêts photo ; tenir compte de la route locale.",
+          "driveMinutes": 180
+        },
+        {
+          "name": "Bodega de torrontés",
+          "hours": 3,
+          "tip": "Visite sur réservation et conducteur sobre."
+        },
+        {
+          "name": "Village & artisanat",
+          "hours": 2,
+          "tip": "Une fin d’après-midi tranquille autour de la place."
+        }
+      ],
+      "distant": true,
+      "roadNote": "Le circuit du Nord depuis Buenos Aires demande au moins 14 nuits sur place et plusieurs liaisons de plus de 5 heures."
+    },
+    {
+      "id": "purmamarca",
+      "name": "Purmamarca",
+      "region": "Nord-Ouest",
+      "lat": -23.747,
+      "lon": -65.499,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "culture"
+      ],
+      "intro": "Un village au pied du Cerro de los Siete Colores, entre artisanat et paysages minéraux.",
+      "feb": "Pluies d’été et altitude à prendre en compte dans le rythme des visites.",
+      "activities": [
+        {
+          "name": "Paseo de los Colorados",
+          "hours": 2,
+          "tip": "Balade autour des reliefs ; adapter l’effort à l’altitude."
+        },
+        {
+          "name": "Village & marché artisanal",
+          "hours": 2,
+          "tip": "Prendre le temps des petites rues."
+        },
+        {
+          "name": "Salinas Grandes",
+          "hours": 6,
+          "tip": "Excursion en altitude ; transport, météo et acclimatation à anticiper.",
+          "driveMinutes": 240
+        }
+      ],
+      "distant": true
+    },
+    {
+      "id": "bariloche",
+      "name": "Bariloche",
+      "region": "Patagonie",
+      "lat": -41.134,
+      "lon": -71.31,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "food"
+      ],
+      "intro": "Des lacs bleus, des forêts et les Andes : une base pour les amoureux de paysages alpins.",
+      "feb": "Été austral et fréquentation élevée ; météo changeante en montagne.",
+      "activities": [
+        {
+          "name": "Circuito Chico",
+          "hours": 6,
+          "tip": "Route panoramique et points de vue ; compter la conduite locale.",
+          "driveMinutes": 150
+        },
+        {
+          "name": "Cerro Campanario",
+          "hours": 3,
+          "tip": "Vue sur les lacs à pied ou en remontée selon ouverture."
+        },
+        {
+          "name": "Nahuel Huapi & chocolateries",
+          "hours": 3,
+          "tip": "Une journée plus douce entre les sorties nature."
+        }
+      ],
+      "distant": true,
+      "roadNote": "La boucle routière des lacs depuis Buenos Aires demande au moins 13 nuits et plusieurs longues journées de liaison. Consultez ses contraintes dans Les circuits."
+    },
+    {
+      "id": "angostura",
+      "name": "Villa La Angostura",
+      "region": "Patagonie",
+      "lat": -40.762,
+      "lon": -71.647,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "relax"
+      ],
+      "intro": "Une petite ville entre forêts et lacs, sur la route des Sept Lacs.",
+      "feb": "Belle saison de plein air ; réserver tôt les hébergements pour le groupe.",
+      "activities": [
+        {
+          "name": "Baies du Nahuel Huapi",
+          "hours": 3,
+          "tip": "Petites balades et moments au bord du lac."
+        },
+        {
+          "name": "Parc Los Arrayanes",
+          "hours": 6,
+          "tip": "Choisir entre marche longue et excursion en bateau selon niveau."
+        },
+        {
+          "name": "Route des Sept Lacs",
+          "hours": 8,
+          "tip": "Journée panoramique en voiture ; distance et pauses à prévoir.",
+          "driveMinutes": 240
+        }
+      ],
+      "distant": true,
+      "roadNote": "La boucle routière des lacs depuis Buenos Aires demande au moins 13 nuits et plusieurs longues journées de liaison. Consultez ses contraintes dans Les circuits."
+    },
+    {
+      "id": "calafate",
+      "name": "El Calafate",
+      "region": "Patagonie",
+      "lat": -50.337,
+      "lon": -72.265,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "wildlife",
+        "hike"
+      ],
+      "intro": "Le point de départ vers le glacier Perito Moreno et les paysages immenses de Patagonie australe.",
+      "feb": "Été austral, vent et températures variables ; plusieurs couches restent utiles.",
+      "activities": [
+        {
+          "name": "Passerelles du Perito Moreno",
+          "hours": 8,
+          "tip": "Journée avec environ 3 h de route aller-retour depuis la ville.",
+          "driveMinutes": 180
+        },
+        {
+          "name": "Laguna Nimez",
+          "hours": 2,
+          "tip": "Promenade et observation des oiseaux selon accès."
+        },
+        {
+          "name": "Navigation près des glaciers",
+          "hours": 7,
+          "tip": "Excursion payante à réserver, selon météo."
+        }
+      ],
+      "distant": true
+    },
+    {
+      "id": "chalten",
+      "name": "El Chaltén",
+      "region": "Patagonie",
+      "lat": -49.332,
+      "lon": -72.886,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 2,
+      "tags": [
+        "hike",
+        "nature",
+        "relax"
+      ],
+      "intro": "Des sentiers face au Fitz Roy et des journées entières dehors : le rêve des marcheurs.",
+      "feb": "Longues journées, mais vent et météo peuvent modifier le programme.",
+      "activities": [
+        {
+          "name": "Laguna Capri",
+          "hours": 5,
+          "tip": "Randonnée à adapter au niveau et aux conditions."
+        },
+        {
+          "name": "Laguna de los Tres",
+          "hours": 10,
+          "tip": "Sortie exigeante : longue distance et fort dénivelé final."
+        },
+        {
+          "name": "Miradors Los Cóndores & Las Águilas",
+          "hours": 3,
+          "tip": "Alternative plus courte avec panoramas."
+        }
+      ],
+      "distant": true
+    },
+    {
+      "id": "ushuaia",
+      "name": "Ushuaia",
+      "region": "Patagonie",
+      "lat": -54.802,
+      "lon": -68.303,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "wildlife",
+        "hike"
+      ],
+      "intro": "Le canal Beagle, les montagnes et la sensation d’être tout au bout du continent.",
+      "feb": "Été frais, vent et météo changeante : vêtements chauds et imperméables.",
+      "activities": [
+        {
+          "name": "Parc national Tierra del Fuego",
+          "hours": 7,
+          "tip": "Choisir des sentiers adaptés au groupe."
+        },
+        {
+          "name": "Navigation sur le canal Beagle",
+          "hours": 4,
+          "tip": "Selon météo ; réserver la sortie pour neuf."
+        },
+        {
+          "name": "Ville & musée maritime",
+          "hours": 3,
+          "tip": "Une alternative utile quand le temps change."
+        }
+      ],
+      "distant": true,
+      "roadNote": "Un accès terrestre implique le Chili et un ferry : hors des circuits de cette version."
+    },
+    {
+      "id": "junin",
+      "name": "Junín",
+      "region": "Buenos Aires",
+      "lat": -34.585,
+      "lon": -60.958,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour couper la route vers Cuyo.",
+      "feb": "Une soirée calme après la conduite.",
+      "activities": [
+        {
+          "name": "Centre & dîner",
+          "hours": 2,
+          "tip": "Se reposer avant la route du lendemain."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "mercedes",
+      "name": "Mercedes, Corrientes",
+      "region": "Litoral",
+      "lat": -29.184,
+      "lon": -58.078,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food"
+      ],
+      "intro": "La porte d’accès routière aux Esteros del Iberá.",
+      "feb": "Vérifier l’état de la piste avant de poursuivre.",
+      "activities": [
+        {
+          "name": "Centre & préparation de l’étape",
+          "hours": 2,
+          "tip": "Faire le plein et confirmer l’accès à Carlos Pellegrini."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "bellville",
+      "name": "Bell Ville",
+      "region": "Córdoba & centre",
+      "lat": -32.625,
+      "lon": -62.689,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une nuit de liaison entre les sierras et Rosario.",
+      "feb": "Une étape calme après la route.",
+      "activities": [
+        {
+          "name": "Centre & dîner",
+          "hours": 2,
+          "tip": "Repos avant le trajet suivant."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "victoria",
+      "name": "Victoria",
+      "region": "Litoral",
+      "lat": -32.618,
+      "lon": -60.155,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "nature",
+        "relax"
+      ],
+      "intro": "Une ville de collines et de ferronneries ouvrant sur les îles du Paraná, accessible par le pont depuis Rosario.",
+      "feb": "Été chaud et insectes près de l’eau ; sorties dans les îles selon le niveau du fleuve.",
+      "activities": [
+        {
+          "name": "Centre historique & ferronneries",
+          "hours": 2,
+          "tip": "Se promener parmi les façades anciennes et les ouvrages en fer."
+        },
+        {
+          "name": "Costanera & coucher de soleil",
+          "hours": 2,
+          "tip": "Garder la fin de journée pour les paysages du fleuve."
+        },
+        {
+          "name": "Îles de Victoria avec un guide",
+          "hours": 4,
+          "tip": "Excursion accompagnée à réserver selon les conditions du fleuve ; oiseaux non garantis."
+        }
+      ]
+    },
+    {
+      "id": "parana",
+      "name": "Paraná",
+      "region": "Litoral",
+      "lat": -31.732,
+      "lon": -60.529,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "culture",
+        "relax"
+      ],
+      "intro": "Des parcs en hauteur, une longue promenade au bord du fleuve et un centre historique à explorer à pied.",
+      "feb": "Chaud et humide ; prendre les promenades tôt ou en soirée. Les sorties sur le fleuve dépendent des conditions.",
+      "activities": [
+        {
+          "name": "Parque Urquiza & points de vue",
+          "hours": 3,
+          "tip": "Parcourir les terrasses et les jardins dominant le Paraná."
+        },
+        {
+          "name": "Centre historique & artisanat",
+          "hours": 3,
+          "tip": "Places et musées selon leurs jours d’ouverture."
+        },
+        {
+          "name": "Promenade sur la costanera",
+          "hours": 2,
+          "tip": "Prendre le temps du bord du fleuve, sans programme serré."
+        }
+      ]
+    },
+    {
+      "id": "posadas",
+      "name": "Posadas",
+      "region": "Litoral",
+      "lat": -27.367,
+      "lon": -55.897,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "nature"
+      ],
+      "intro": "Une base urbaine au bord du Paraná pour découvrir la culture et les paysages de Misiones.",
+      "feb": "Chaleur humide et averses : privilégier les promenades matinales ou en fin de journée.",
+      "activities": [
+        {
+          "name": "Costanera & monument à Andrés Guacurarí",
+          "hours": 2,
+          "tip": "Une promenade sur une portion des quais avec vue sur le fleuve."
+        },
+        {
+          "name": "Jardin botanique Alberto Roth",
+          "hours": 3,
+          "tip": "Sentiers et végétation locale ; confirmer les accès avant la visite."
+        },
+        {
+          "name": "Vieille gare & cuisine régionale",
+          "hours": 2,
+          "tip": "Une soirée douce autour du patrimoine des quais et des spécialités locales."
+        }
+      ]
+    },
+    {
+      "id": "sanignacio",
+      "name": "San Ignacio Miní",
+      "region": "Litoral",
+      "lat": -27.255,
+      "lon": -55.536,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "nature",
+        "food"
+      ],
+      "intro": "Les vestiges de la mission jésuite et guaranie en pierre rouge, au cœur de Misiones.",
+      "feb": "Chaleur et averses possibles : visiter tôt et garder une alternative abritée.",
+      "activities": [
+        {
+          "name": "Mission de San Ignacio Miní",
+          "hours": 3,
+          "tip": "Découvrir le site et son histoire avec une visite guidée si disponible."
+        },
+        {
+          "name": "Musée & détails sculptés",
+          "hours": 2,
+          "tip": "Compléter la visite des ruines par les collections et les portails sculptés."
+        },
+        {
+          "name": "Village & soirée tranquille",
+          "hours": 2,
+          "tip": "Dîner sur place ; spectacle nocturne seulement selon le programme confirmé."
+        }
+      ]
+    },
+    {
+      "id": "tucuman",
+      "name": "San Miguel de Tucumán",
+      "region": "Nord-Ouest",
+      "lat": -26.824,
+      "lon": -65.223,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "culture",
+        "food",
+        "nature"
+      ],
+      "intro": "La ville de l’Indépendance, entre patrimoine urbain, places ombragées et spécialités du Nord-Ouest.",
+      "feb": "Été chaud et pluvieux ; alterner promenades et musées.",
+      "activities": [
+        {
+          "name": "Casa Histórica de la Independencia",
+          "hours": 2,
+          "tip": "Découvrir les salles du musée et le lieu de la déclaration d’indépendance."
+        },
+        {
+          "name": "Plaza Independencia & centre",
+          "hours": 2,
+          "tip": "Façades historiques et pause autour de la place."
+        },
+        {
+          "name": "Parque 9 de Julio",
+          "hours": 3,
+          "tip": "Balade au fil des jardins, sculptures et du lac."
+        }
+      ]
+    },
+    {
+      "id": "santotome",
+      "name": "Santo Tomé, Corrientes",
+      "region": "Litoral",
+      "lat": -28.55,
+      "lon": -56.043,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour fractionner les grandes traversées.",
+      "feb": "Prévoir une soirée calme, le plein et une nuit de repos avant la route suivante.",
+      "activities": [
+        {
+          "name": "Installation & dîner",
+          "hours": 2,
+          "tip": "Une promenade courte et du repos après la conduite."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "santiago",
+      "name": "Santiago del Estero",
+      "region": "Nord-Ouest",
+      "lat": -27.783,
+      "lon": -64.267,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour fractionner les grandes traversées.",
+      "feb": "Prévoir une soirée calme, le plein et une nuit de repos avant la route suivante.",
+      "activities": [
+        {
+          "name": "Installation & dîner",
+          "hours": 2,
+          "tip": "Une promenade courte et du repos après la conduite."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "trenque",
+      "name": "Trenque Lauquen",
+      "region": "Buenos Aires",
+      "lat": -35.97,
+      "lon": -62.73,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour fractionner les grandes traversées.",
+      "feb": "Prévoir une soirée calme, le plein et une nuit de repos avant la route suivante.",
+      "activities": [
+        {
+          "name": "Installation & dîner",
+          "hours": 2,
+          "tip": "Une promenade courte et du repos après la conduite."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "santarosa",
+      "name": "Santa Rosa, La Pampa",
+      "region": "Córdoba & centre",
+      "lat": -36.62,
+      "lon": -64.29,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour fractionner les grandes traversées.",
+      "feb": "Prévoir une soirée calme, le plein et une nuit de repos avant la route suivante.",
+      "activities": [
+        {
+          "name": "Installation & dîner",
+          "hours": 2,
+          "tip": "Une promenade courte et du repos après la conduite."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    },
+    {
+      "id": "neuquen",
+      "name": "Neuquén",
+      "region": "Patagonie",
+      "lat": -38.952,
+      "lon": -68.059,
+      "days": [
+        1,
+        1
+      ],
+      "effort": 0,
+      "tags": [
+        "relax",
+        "food"
+      ],
+      "intro": "Une halte de liaison pour fractionner les grandes traversées.",
+      "feb": "Prévoir une soirée calme, le plein et une nuit de repos avant la route suivante.",
+      "activities": [
+        {
+          "name": "Installation & dîner",
+          "hours": 2,
+          "tip": "Une promenade courte et du repos après la conduite."
+        }
+      ],
+      "hidden": true,
+      "transit": true
+    }
+  ],
+  "templates": [
+    {
+      "id": "cote",
+      "family": "Côte & pampa",
+      "title": "L’Atlantique, sans se presser",
+      "subtitle": "Océan, collines & longues tablées",
+      "cover": "carilo",
+      "color": "#d27750",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "chascomus",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "pinamar",
+          "min": 2,
+          "alternatives": [
+            "carilo"
+          ]
+        },
+        {
+          "id": "mardel",
+          "min": 2,
+          "alternatives": [
+            "necochea"
+          ]
+        },
+        {
+          "id": "tandil",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "pinamar",
+        "carilo",
+        "mardel",
+        "necochea",
+        "tandil"
+      ],
+      "note": "Le circuit le plus simple pour mêler détente, sorties et petites randonnées."
+    },
+    {
+      "id": "delta",
+      "family": "Buenos Aires & delta",
+      "title": "La ville, la pampa et le fleuve",
+      "subtitle": "Culture, nature douce & peu de route",
+      "cover": "tigre",
+      "color": "#568a79",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "tigre",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "areco",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "ba",
+        "tigre",
+        "areco",
+        "rosario"
+      ],
+      "note": "Le choix du temps sur place : moins de kilomètres et davantage de journées libres."
+    },
+    {
+      "id": "sierras",
+      "family": "Córdoba & sierras",
+      "title": "Au rythme des sierras",
+      "subtitle": "Villages, rivières & sentiers",
+      "cover": "calamuchita",
+      "color": "#788257",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "cordoba",
+          "min": 2,
+          "alternatives": [
+            "carlospaz"
+          ]
+        },
+        {
+          "id": "calamuchita",
+          "min": 2,
+          "alternatives": [
+            "merlo"
+          ]
+        },
+        {
+          "id": "bellville",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "cordoba",
+        "carlospaz",
+        "calamuchita",
+        "merlo"
+      ],
+      "note": "Deux bases dans les sierras, avec des haltes pour fractionner les grandes traversées."
+    },
+    {
+      "id": "cuyo",
+      "family": "Cuyo",
+      "title": "Cap sur les Andes",
+      "subtitle": "Vignobles, montagnes & grands espaces",
+      "cover": "mendoza",
+      "color": "#b78f50",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "junin",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "riocuarto",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "sanluis",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "mendoza",
+          "min": 3,
+          "alternatives": [
+            "sanrafael",
+            "potrerillos",
+            "uspallata"
+          ]
+        },
+        {
+          "id": "sanluis",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "riocuarto",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "junin",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "mendoza",
+        "sanrafael",
+        "potrerillos",
+        "uspallata"
+      ],
+      "note": "Un choix très routier depuis Buenos Aires : les haltes de liaison occupent une grande part du séjour."
+    },
+    {
+      "id": "litoral",
+      "family": "Litoral",
+      "title": "Palmiers et rivières tranquilles",
+      "subtitle": "Faune, thermes & pause au bord de l’eau",
+      "cover": "palmar",
+      "color": "#84945f",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "palmar",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "colon",
+        "palmar",
+        "federacion"
+      ],
+      "note": "Une boucle accessible par la RN 14, avec des bases pour explorer à un rythme doux."
+    },
+    {
+      "id": "ibera",
+      "family": "Iberá",
+      "title": "Rendez-vous avec la vie sauvage",
+      "subtitle": "Esteros, oiseaux & lagunes",
+      "cover": "ibera",
+      "color": "#578a70",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "mercedes",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ibera",
+          "min": 3,
+          "alternatives": []
+        },
+        {
+          "id": "mercedes",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "ibera"
+      ],
+      "note": "Un voyage centré sur Iberá, avec plusieurs nuits de liaison. L’accès sur piste doit être confirmé avant réservation."
+    },
+    {
+      "id": "cote_nature",
+      "family": "Côte nature",
+      "title": "Collines, dunes et grand air",
+      "subtitle": "Tandil & Necochea, à rythme doux",
+      "cover": "necochea",
+      "color": "#267b89",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "chascomus",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "tandil",
+          "min": 3,
+          "alternatives": []
+        },
+        {
+          "id": "necochea",
+          "min": 3,
+          "alternatives": []
+        },
+        {
+          "id": "mardel",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "chascomus",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "tandil",
+        "necochea",
+        "mardel"
+      ],
+      "note": "De longs séjours dans les collines et sur la côte ; Chascomús coupe les traversées à l’aller et au retour."
+    },
+    {
+      "id": "fleuve_parana",
+      "family": "Tigre, Rosario & Paraná",
+      "title": "Au fil du grand fleuve",
+      "subtitle": "Delta, patrimoine & paysages de berge",
+      "cover": "parana",
+      "color": "#7661a8",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "tigre",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "victoria",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "parana",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "tigre",
+        "rosario",
+        "victoria",
+        "parana"
+      ],
+      "note": "Une boucle par le pont Rosario–Victoria et les villes du Paraná, avec du temps au bord de l’eau."
+    },
+    {
+      "id": "entre_rios",
+      "family": "Rosario & Entre Ríos",
+      "title": "D’une rive à l’autre",
+      "subtitle": "Villes, îles & palmeraie",
+      "cover": "victoria",
+      "color": "#bc526b",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "victoria",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "palmar",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "rosario",
+        "victoria",
+        "colon",
+        "palmar",
+        "federacion"
+      ],
+      "note": "Un aller par Rosario et Victoria, puis la palmeraie et les berges de l’Uruguay. Le retour reste fractionné."
+    },
+    {
+      "id": "missions_iguazu",
+      "family": "Iguazú & missions",
+      "title": "La grande traversée de Misiones",
+      "subtitle": "Pierre rouge, forêt & chutes",
+      "cover": "iguazu",
+      "color": "#1c8b73",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santotome",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "posadas",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "sanignacio",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "iguazu",
+          "min": 3,
+          "alternatives": []
+        },
+        {
+          "id": "sanignacio",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santotome",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "federacion",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "colon",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "posadas",
+        "sanignacio",
+        "iguazu"
+      ],
+      "note": "Un voyage lointain entièrement routier : les nombreuses haltes imposent un séjour plus long que le cadre initial."
+    },
+    {
+      "id": "nord_salta",
+      "family": "Salta & Cafayate",
+      "title": "Les couleurs du Nord-Ouest",
+      "subtitle": "Villes historiques, vallées & vignobles",
+      "cover": "cafayate",
+      "color": "#c36f32",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "cordoba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santiago",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "tucuman",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "salta",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "cafayate",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "tucuman",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santiago",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "cordoba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "rosario",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "tucuman",
+        "salta",
+        "cafayate"
+      ],
+      "note": "Une longue traversée jusqu’au Nord-Ouest. Les routes de montagne et la saison des pluies demandent de la souplesse."
+    },
+    {
+      "id": "lacs_patagonie",
+      "family": "Bariloche & les lacs",
+      "title": "Les lacs au bout de la route",
+      "subtitle": "Nahuel Huapi, forêts & montagnes",
+      "cover": "bariloche",
+      "color": "#3669a5",
+      "stops": [
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "trenque",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santarosa",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "neuquen",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "bariloche",
+          "min": 3,
+          "alternatives": []
+        },
+        {
+          "id": "angostura",
+          "min": 2,
+          "alternatives": []
+        },
+        {
+          "id": "neuquen",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "santarosa",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "trenque",
+          "min": 1,
+          "alternatives": []
+        },
+        {
+          "id": "ba",
+          "min": 1,
+          "alternatives": []
+        }
+      ],
+      "focus": [
+        "bariloche",
+        "angostura"
+      ],
+      "note": "Les trajets à travers la pampa sont longs, même avec des haltes. À consulter comme grand voyage, avec davantage de jours et de route que les boucles proches."
+    }
+  ],
+  "themes": [
+    {
+      "id": "nature",
+      "label": "Grands paysages",
+      "icon": "mountain"
+    },
+    {
+      "id": "hike",
+      "label": "Randonnée",
+      "icon": "hike"
+    },
+    {
+      "id": "wildlife",
+      "label": "Animaux",
+      "icon": "bird"
+    },
+    {
+      "id": "food",
+      "label": "Bien manger",
+      "icon": "food"
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "building"
+    },
+    {
+      "id": "relax",
+      "label": "Détente",
+      "icon": "sun"
+    },
+    {
+      "id": "night",
+      "label": "Sorties",
+      "icon": "moon"
+    }
+  ],
+  "sources": [
+    [
+      "Visit Argentina · idées de road trips",
+      "https://www.argentina.travel/en/news/the-8-best-road-trips-to-take-in-argentina"
+    ],
+    [
+      "La Ruta Natural · circuits officiels",
+      "https://larutanatural.gob.ar/es/circuitos"
+    ],
+    [
+      "Buenos Aires · tourisme officiel",
+      "https://turismo.buenosaires.gob.ar/"
+    ],
+    [
+      "Córdoba · les sierras",
+      "https://www.argentina.travel/actividades/sierras-cordobesas"
+    ],
+    [
+      "Iberá · accès depuis Mercedes",
+      "https://www.camaraturismoibera.com.ar/Como-Llegar"
+    ],
+    [
+      "Nord-Ouest · saison des pluies",
+      "https://www.argentina.travel/norte"
+    ],
+    [
+      "La Ruta Natural · Buenos Aires à Paraná",
+      "https://www.larutanatural.gob.ar/es/circuito/11/de-buenos-aires-a-parana"
+    ],
+    [
+      "La Ruta Natural · Posadas",
+      "https://larutanatural.gob.ar/es/imperdible/29/posadas"
+    ],
+    [
+      "Patrimoine national · San Ignacio Miní",
+      "https://www.argentina.gob.ar/capital-humano/cultura/monumentos/ruinas-jesuiticas-de-san-ignacio-mini"
+    ],
+    [
+      "Tucumán Turismo · ville historique",
+      "https://www.tucumanturismo.gob.ar/articulos/articulo/692/ciudad-historica-de-san-miguel-de-tucuman"
+    ],
+    [
+      "Bariloche Turismo · accès routier",
+      "https://www.barilocheturismo.gob.ar/es/como-llegar"
+    ],
+    [
+      "Visit Salta · accès",
+      "https://www.visitsalta.ar/page/como-llegar"
+    ],
+    [
+      "Paraná Turismo · parcs et nature",
+      "https://parana.tur.ar/quehacer/naturaleza"
+    ],
+    [
+      "La Ruta Natural · saison de Misiones",
+      "https://larutanatural.gob.ar/es/routes/3/selva-misionera"
+    ],
+    [
+      "Visit Argentina · climat de Tucumán",
+      "https://www.argentina.travel/provincia/tucuman"
+    ]
+  ],
+  "checked": "2026-10-24",
+  "legs": {
+    "areco|rosario": {
+      "km": 207,
+      "minutes": 180,
+      "baseMinutes": 144,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ba|chascomus": {
+      "km": 127,
+      "minutes": 120,
+      "baseMinutes": 92,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ba|colon": {
+      "km": 324,
+      "minutes": 270,
+      "baseMinutes": 223,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ba|junin": {
+      "km": 268,
+      "minutes": 225,
+      "baseMinutes": 195,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ba|rosario": {
+      "km": 303,
+      "minutes": 240,
+      "baseMinutes": 198,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ba|tigre": {
+      "km": 33,
+      "minutes": 45,
+      "baseMinutes": 27,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "bellville|rosario": {
+      "km": 208,
+      "minutes": 165,
+      "baseMinutes": 135,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "calamuchita|bellville": {
+      "km": 223,
+      "minutes": 225,
+      "baseMinutes": 187,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "carilo|mardel": {
+      "km": 211,
+      "minutes": 210,
+      "baseMinutes": 176,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "carilo|necochea": {
+      "km": 333,
+      "minutes": 315,
+      "baseMinutes": 271,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "carlospaz|calamuchita": {
+      "km": 91,
+      "minutes": 105,
+      "baseMinutes": 86,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "carlospaz|merlo": {
+      "km": 198,
+      "minutes": 225,
+      "baseMinutes": 185,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "chascomus|carilo": {
+      "km": 240,
+      "minutes": 210,
+      "baseMinutes": 175,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "chascomus|pinamar": {
+      "km": 233,
+      "minutes": 195,
+      "baseMinutes": 167,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "colon|ba": {
+      "km": 325,
+      "minutes": 255,
+      "baseMinutes": 217,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "colon|federacion": {
+      "km": 166,
+      "minutes": 150,
+      "baseMinutes": 122,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "colon|palmar": {
+      "km": 62,
+      "minutes": 75,
+      "baseMinutes": 63,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "cordoba|calamuchita": {
+      "km": 88,
+      "minutes": 105,
+      "baseMinutes": 88,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "cordoba|merlo": {
+      "km": 228,
+      "minutes": 240,
+      "baseMinutes": 204,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "federacion|colon": {
+      "km": 174,
+      "minutes": 150,
+      "baseMinutes": 122,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "federacion|mercedes": {
+      "km": 237,
+      "minutes": 210,
+      "baseMinutes": 170,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "ibera|mercedes": {
+      "km": 120,
+      "minutes": 210,
+      "baseMinutes": 162,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "junin|ba": {
+      "km": 268,
+      "minutes": 225,
+      "baseMinutes": 195,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "junin|riocuarto": {
+      "km": 394,
+      "minutes": 360,
+      "baseMinutes": 301,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "mardel|tandil": {
+      "km": 173,
+      "minutes": 165,
+      "baseMinutes": 134,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "mendoza|sanluis": {
+      "km": 260,
+      "minutes": 210,
+      "baseMinutes": 177,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "mercedes|federacion": {
+      "km": 237,
+      "minutes": 210,
+      "baseMinutes": 170,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "mercedes|ibera": {
+      "km": 120,
+      "minutes": 210,
+      "baseMinutes": 163,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "merlo|bellville": {
+      "km": 290,
+      "minutes": 375,
+      "baseMinutes": 316,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "necochea|tandil": {
+      "km": 164,
+      "minutes": 150,
+      "baseMinutes": 123,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "palmar|federacion": {
+      "km": 127,
+      "minutes": 120,
+      "baseMinutes": 102,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "pinamar|mardel": {
+      "km": 204,
+      "minutes": 195,
+      "baseMinutes": 168,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "pinamar|necochea": {
+      "km": 327,
+      "minutes": 315,
+      "baseMinutes": 263,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "potrerillos|sanluis": {
+      "km": 305,
+      "minutes": 240,
+      "baseMinutes": 208,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "riocuarto|junin": {
+      "km": 393,
+      "minutes": 345,
+      "baseMinutes": 300,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "riocuarto|sanluis": {
+      "km": 217,
+      "minutes": 180,
+      "baseMinutes": 156,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "rosario|ba": {
+      "km": 299,
+      "minutes": 240,
+      "baseMinutes": 198,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "rosario|carlospaz": {
+      "km": 444,
+      "minutes": 330,
+      "baseMinutes": 274,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "rosario|cordoba": {
+      "km": 407,
+      "minutes": 300,
+      "baseMinutes": 254,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanluis|mendoza": {
+      "km": 260,
+      "minutes": 210,
+      "baseMinutes": 178,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanluis|potrerillos": {
+      "km": 306,
+      "minutes": 255,
+      "baseMinutes": 211,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanluis|riocuarto": {
+      "km": 218,
+      "minutes": 195,
+      "baseMinutes": 158,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanluis|sanrafael": {
+      "km": 275,
+      "minutes": 240,
+      "baseMinutes": 199,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanluis|uspallata": {
+      "km": 356,
+      "minutes": 300,
+      "baseMinutes": 253,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "sanrafael|sanluis": {
+      "km": 275,
+      "minutes": 240,
+      "baseMinutes": 197,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "tandil|ba": {
+      "km": 350,
+      "minutes": 300,
+      "baseMinutes": 259,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "tigre|areco": {
+      "km": 98,
+      "minutes": 90,
+      "baseMinutes": 76,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "uspallata|sanluis": {
+      "km": 355,
+      "minutes": 300,
+      "baseMinutes": 250,
+      "source": "OSRM / OpenStreetMap · 24/10/2026"
+    },
+    "bariloche|angostura": {
+      "km": 84,
+      "minutes": 105,
+      "baseMinutes": 79,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-71.31,-41.134;-71.647,-40.762?overview=false&steps=false&continue_straight=false"
+    },
+    "angostura|neuquen": {
+      "km": 473,
+      "minutes": 435,
+      "baseMinutes": 373,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-71.647,-40.762;-68.059,-38.952?overview=false&steps=false&continue_straight=false"
+    },
+    "ba|trenque": {
+      "km": 454,
+      "minutes": 405,
+      "baseMinutes": 346,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-58.3816,-34.6037;-62.73,-35.97?overview=false&steps=false&continue_straight=false"
+    },
+    "cafayate|tucuman": {
+      "km": 223,
+      "minutes": 240,
+      "baseMinutes": 207,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-65.976,-26.073;-65.223,-26.824?overview=false&steps=false&continue_straight=false"
+    },
+    "chascomus|tandil": {
+      "km": 307,
+      "minutes": 255,
+      "baseMinutes": 216,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-58.008,-35.575;-59.133,-37.321?overview=false&steps=false&continue_straight=false"
+    },
+    "chascomus|ba": {
+      "km": 128,
+      "minutes": 120,
+      "baseMinutes": 93,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-58.008,-35.575;-58.3816,-34.6037?overview=false&steps=false&continue_straight=false"
+    },
+    "federacion|santotome": {
+      "km": 407,
+      "minutes": 345,
+      "baseMinutes": 291,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-57.922,-30.985;-56.043,-28.55?overview=false&steps=false&continue_straight=false"
+    },
+    "cordoba|rosario": {
+      "km": 408,
+      "minutes": 300,
+      "baseMinutes": 256,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.184,-31.417;-60.639,-32.947?overview=false&steps=false&continue_straight=false"
+    },
+    "cordoba|santiago": {
+      "km": 436,
+      "minutes": 390,
+      "baseMinutes": 326,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.184,-31.417;-64.267,-27.783?overview=false&steps=false&continue_straight=false"
+    },
+    "necochea|mardel": {
+      "km": 132,
+      "minutes": 135,
+      "baseMinutes": 107,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-58.74,-38.555;-57.543,-38.005?overview=false&steps=false&continue_straight=false"
+    },
+    "mardel|chascomus": {
+      "km": 290,
+      "minutes": 240,
+      "baseMinutes": 204,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-57.543,-38.005;-58.008,-35.575?overview=false&steps=false&continue_straight=false"
+    },
+    "neuquen|santarosa": {
+      "km": 530,
+      "minutes": 465,
+      "baseMinutes": 394,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-68.059,-38.952;-64.29,-36.62?overview=false&steps=false&continue_straight=false"
+    },
+    "parana|rosario": {
+      "km": 200,
+      "minutes": 165,
+      "baseMinutes": 140,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-60.529,-31.732;-60.639,-32.947?overview=false&steps=false&continue_straight=false"
+    },
+    "posadas|sanignacio": {
+      "km": 64,
+      "minutes": 75,
+      "baseMinutes": 57,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-55.897,-27.367;-55.536,-27.255?overview=false&steps=false&continue_straight=false"
+    },
+    "rosario|victoria": {
+      "km": 75,
+      "minutes": 75,
+      "baseMinutes": 65,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-60.639,-32.947;-60.155,-32.618?overview=false&steps=false&continue_straight=false"
+    },
+    "sanignacio|santotome": {
+      "km": 193,
+      "minutes": 210,
+      "baseMinutes": 176,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-55.536,-27.255;-56.043,-28.55?overview=false&steps=false&continue_straight=false"
+    },
+    "santarosa|neuquen": {
+      "km": 529,
+      "minutes": 450,
+      "baseMinutes": 390,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.29,-36.62;-68.059,-38.952?overview=false&steps=false&continue_straight=false"
+    },
+    "santarosa|trenque": {
+      "km": 168,
+      "minutes": 150,
+      "baseMinutes": 130,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.29,-36.62;-62.73,-35.97?overview=false&steps=false&continue_straight=false"
+    },
+    "salta|cafayate": {
+      "km": 189,
+      "minutes": 225,
+      "baseMinutes": 187,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-65.411,-24.788;-65.976,-26.073?overview=false&steps=false&continue_straight=false"
+    },
+    "sanignacio|iguazu": {
+      "km": 244,
+      "minutes": 285,
+      "baseMinutes": 243,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-55.536,-27.255;-54.575,-25.598?overview=false&steps=false&continue_straight=false"
+    },
+    "santiago|cordoba": {
+      "km": 435,
+      "minutes": 390,
+      "baseMinutes": 328,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.267,-27.783;-64.184,-31.417?overview=false&steps=false&continue_straight=false"
+    },
+    "santiago|tucuman": {
+      "km": 161,
+      "minutes": 150,
+      "baseMinutes": 130,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-64.267,-27.783;-65.223,-26.824?overview=false&steps=false&continue_straight=false"
+    },
+    "santotome|federacion": {
+      "km": 407,
+      "minutes": 345,
+      "baseMinutes": 291,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-56.043,-28.55;-57.922,-30.985?overview=false&steps=false&continue_straight=false"
+    },
+    "santotome|posadas": {
+      "km": 158,
+      "minutes": 180,
+      "baseMinutes": 147,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-56.043,-28.55;-55.897,-27.367?overview=false&steps=false&continue_straight=false"
+    },
+    "tandil|necochea": {
+      "km": 163,
+      "minutes": 150,
+      "baseMinutes": 123,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-59.133,-37.321;-58.74,-38.555?overview=false&steps=false&continue_straight=false"
+    },
+    "tigre|rosario": {
+      "km": 280,
+      "minutes": 225,
+      "baseMinutes": 186,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-58.579,-34.425;-60.639,-32.947?overview=false&steps=false&continue_straight=false"
+    },
+    "trenque|ba": {
+      "km": 454,
+      "minutes": 405,
+      "baseMinutes": 348,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-62.73,-35.97;-58.3816,-34.6037?overview=false&steps=false&continue_straight=false"
+    },
+    "trenque|santarosa": {
+      "km": 168,
+      "minutes": 165,
+      "baseMinutes": 130,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-62.73,-35.97;-64.29,-36.62?overview=false&steps=false&continue_straight=false"
+    },
+    "tucuman|salta": {
+      "km": 305,
+      "minutes": 270,
+      "baseMinutes": 225,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-65.223,-26.824;-65.411,-24.788?overview=false&steps=false&continue_straight=false"
+    },
+    "tucuman|santiago": {
+      "km": 159,
+      "minutes": 150,
+      "baseMinutes": 129,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-65.223,-26.824;-64.267,-27.783?overview=false&steps=false&continue_straight=false"
+    },
+    "victoria|colon": {
+      "km": 233,
+      "minutes": 195,
+      "baseMinutes": 167,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-60.155,-32.618;-58.143,-32.224?overview=false&steps=false&continue_straight=false"
+    },
+    "victoria|parana": {
+      "km": 119,
+      "minutes": 135,
+      "baseMinutes": 117,
+      "source": "OSRM / OpenStreetMap · 25/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-60.155,-32.618;-60.529,-31.732?overview=false&steps=false&continue_straight=false"
+    },
+    "iguazu|sanignacio": {
+      "km": 244,
+      "minutes": 285,
+      "baseMinutes": 243,
+      "source": "OSRM / OpenStreetMap · 26/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-54.575,-25.598;-55.536,-27.255?overview=false&steps=false&continue_straight=false"
+    },
+    "neuquen|bariloche": {
+      "km": 439,
+      "minutes": 405,
+      "baseMinutes": 346,
+      "source": "OSRM / OpenStreetMap · 26/10/2026",
+      "sourceUrl": "https://routing.openstreetmap.de/routed-car/route/v1/driving/-68.059,-38.952;-71.31,-41.134?overview=false&steps=false&continue_straight=false"
+    }
+  }
+}

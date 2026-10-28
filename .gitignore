@@ -6,6 +6,12 @@ dist
 *.log
 *.swp
 voyage-djeunes-mvp.zip
-index.html
-app.js
-styles.css
+/index.html
+/app.js
+/styles.css
+
+# Private travel data and local deployment state
+.private/
+.vercel/
+*.tsbuildinfo
+argentine-a9-sauvegarde*.json

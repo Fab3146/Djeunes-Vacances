@@ -1,0 +1,738 @@
+{
+  "valdes": {
+    "images": [
+      {
+        "title": "Puerto Pirámides et le golfe Nuevo",
+        "author": "No machine-readable author provided. Raulhoracio assumed (based on copyright claims).",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Puerto_Pir%C3%A1mides_y_Golfo_Nuevo.jpg",
+        "article": "https://en.wikipedia.org/wiki/Valdes_Peninsula",
+        "path": "assets/photo-enrichment/valdes-final-0.webp",
+        "sourceTitle": "Puerto Pirámides y Golfo Nuevo.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Lions de mer à Punta Norte",
+        "author": "Diegazo2000",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Lobos_marinos_en_Punta_Norte_por_D2000.jpg",
+        "article": "https://en.wikipedia.org/wiki/Valdes_Peninsula",
+        "path": "assets/photo-enrichment/valdes-final-1.webp",
+        "sourceTitle": "Lobos marinos en Punta Norte por D2000.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Manchots de Magellan sur la péninsule Valdés",
+        "author": "Eberhardt TRAVEL",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Halbinsel_Valdes_Pinguine.jpg",
+        "article": "https://en.wikipedia.org/wiki/Valdes_Peninsula",
+        "path": "assets/photo-enrichment/valdes-final-2.webp",
+        "sourceTitle": "Halbinsel Valdes Pinguine.jpg",
+        "width": 840,
+        "height": 561,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "puntatombo": {
+    "images": [
+      {
+        "title": "La colonie de manchots de Punta Tombo",
+        "author": "No machine-readable author provided. Marianocecowski assumed (based on copyright claims).",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Chubut-PuntaTombo-P2220157b-small.jpg",
+        "article": "https://en.wikipedia.org/wiki/Punta_Tombo",
+        "path": "assets/photo-enrichment/puntatombo-final-0.webp",
+        "sourceTitle": "Chubut-PuntaTombo-P2220157b-small.jpg",
+        "width": 472,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Manchots près de leur nid",
+        "author": "User:Marianocecowski",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Chubut-PuntaTombo-P2220146b.jpg",
+        "article": "https://en.wikipedia.org/wiki/Punta_Tombo",
+        "path": "assets/photo-enrichment/puntatombo-final-1.webp",
+        "sourceTitle": "Chubut-PuntaTombo-P2220146b.jpg",
+        "width": 760,
+        "height": 570,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Guanaco et manchots à Punta Tombo",
+        "author": "https://www.flickr.com/people/furlin/",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Penguins_and_Guanaco.jpg",
+        "article": "https://en.wikipedia.org/wiki/Punta_Tombo",
+        "path": "assets/photo-enrichment/puntatombo-final-2.webp",
+        "sourceTitle": "Penguins and Guanaco.jpg",
+        "width": 840,
+        "height": 562,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "talampaya": {
+    "images": [
+      {
+        "title": "Les falaises rouges de Talampaya",
+        "author": "Gino Lucas T.",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Talampaya_NP.jpg",
+        "article": "https://en.wikipedia.org/wiki/Talampaya_National_Park",
+        "path": "assets/photo-enrichment/talampaya-final-0.webp",
+        "sourceTitle": "Talampaya NP.jpg",
+        "width": 840,
+        "height": 521,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les parois du canyon de Talampaya",
+        "sourceTitle": "The wall at Talampaya National Park.jpg",
+        "author": "Lili Contreras",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:The_wall_at_Talampaya_National_Park.jpg",
+        "article": "https://en.wikipedia.org/wiki/Talampaya_National_Park",
+        "path": "assets/photo-enrichment/talampaya-final-1.webp",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Pétroglyphes du parc de Talampaya",
+        "author": "Pueblos originarios",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Parque_Nacional_Talampaya_-_Petroglifos.jpg",
+        "article": "https://en.wikipedia.org/wiki/Talampaya_National_Park",
+        "path": "assets/photo-enrichment/talampaya-final-2.webp",
+        "sourceTitle": "Parque Nacional Talampaya - Petroglifos.jpg",
+        "width": 840,
+        "height": 576,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "ischigualasto": {
+    "images": [
+      {
+        "title": "El Hongo et les falaises colorées",
+        "author": "Herrerajunior",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:El_Hongo_y_las_Barrancas_Coloradas.jpg",
+        "article": "https://en.wikipedia.org/wiki/Ischigualasto_Provincial_Park",
+        "path": "assets/photo-enrichment/ischigualasto-final-0.webp",
+        "sourceTitle": "El Hongo y las Barrancas Coloradas.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les reliefs du Valle Pintado",
+        "author": "Silviaanac",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Valle_Pintado_2_-_Parque_Provincial_Ischigualasto.jpg",
+        "article": "https://en.wikipedia.org/wiki/Ischigualasto_Provincial_Park",
+        "path": "assets/photo-enrichment/ischigualasto-final-1.webp",
+        "sourceTitle": "Valle Pintado 2 - Parque Provincial Ischigualasto.jpg",
+        "width": 760,
+        "height": 570,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les pierres rondes de la Cancha de Bochas",
+        "author": "Perrito666",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Valle_de_ichigualasto,_cancha_de_bochas.jpg",
+        "article": "https://en.wikipedia.org/wiki/Ischigualasto_Provincial_Park",
+        "path": "assets/photo-enrichment/ischigualasto-final-2.webp",
+        "sourceTitle": "Valle de ichigualasto, cancha de bochas.jpg",
+        "width": 840,
+        "height": 562,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "humahuaca": {
+    "images": [
+      {
+        "title": "Les strates colorées du Hornocal",
+        "author": "Havardtl",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Serran%C3%ADa_de_Hornocal_up_close_near_Humahuaca.jpg",
+        "article": "https://en.wikipedia.org/wiki/Quebrada_de_Humahuaca",
+        "path": "assets/photo-enrichment/humahuaca-final-0.webp",
+        "sourceTitle": "Serranía de Hornocal up close near Humahuaca.jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le Pucará de Tilcara",
+        "author": "Fajro",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Pucar%C3%A1_de_Tilcara_01.JPG",
+        "article": "https://en.wikipedia.org/wiki/Quebrada_de_Humahuaca",
+        "path": "assets/photo-enrichment/humahuaca-final-1.webp",
+        "sourceTitle": "Pucará de Tilcara 01.JPG",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "La Quebrada de Humahuaca près de Tilcara",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:AR378-Quebrada_de_Humahuaca.jpg",
+        "article": "https://en.wikipedia.org/wiki/Quebrada_de_Humahuaca",
+        "path": "assets/photo-enrichment/humahuaca-final-2.webp",
+        "sourceTitle": "AR378-Quebrada de Humahuaca.jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "salinas": {
+    "images": [
+      {
+        "title": "Un œil d’eau dans les Salinas Grandes",
+        "author": "Georani08",
+        "license": "CC BY 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:OJITO_DE_AGUA_SALINAS_JUJUY.jpg",
+        "article": "https://es.wikipedia.org/wiki/Salinas_Grandes_%28Jujuy_y_Salta%29",
+        "path": "assets/photo-enrichment/salinas-final-0.webp",
+        "sourceTitle": "OJITO DE AGUA SALINAS JUJUY.jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les bassins de sel des Salinas Grandes",
+        "author": "Romi2114",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Piletones_de_Salinas_Grandes.jpg",
+        "article": "https://es.wikipedia.org/wiki/Salinas_Grandes_%28Jujuy_y_Salta%29",
+        "path": "assets/photo-enrichment/salinas-final-1.webp",
+        "sourceTitle": "Piletones de Salinas Grandes.jpg",
+        "width": 472,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "L’immensité des Salinas Grandes",
+        "author": "Claudio Elias",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Salinas_Grandes_052.JPG",
+        "article": "https://es.wikipedia.org/wiki/Salinas_Grandes_%28Jujuy_y_Salta%29",
+        "path": "assets/photo-enrichment/salinas-final-2.webp",
+        "sourceTitle": "Salinas Grandes 052.JPG",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "cachi": {
+    "images": [
+      {
+        "title": "Les cactus du parc Los Cardones",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Los_Cardones_National_Park_04.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Cardones_National_Park",
+        "path": "assets/photo-enrichment/cachi-final-0.webp",
+        "sourceTitle": "Los Cardones National Park 04.jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Paysage des environs de Cachi",
+        "author": "borderlys",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cachi_Salta,_Argentina.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Cardones_National_Park",
+        "path": "assets/photo-enrichment/cachi-final-1.webp",
+        "sourceTitle": "Cachi Salta, Argentina.jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les reliefs de la Quebrada de las Flechas",
+        "author": "Adam Jones Adam63",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Flechas_-_Argentina.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Cardones_National_Park",
+        "path": "assets/photo-enrichment/cachi-final-2.webp",
+        "sourceTitle": "Quebrada de las Flechas - Argentina.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "sanmartin": {
+    "images": [
+      {
+        "title": "San Martín de los Andes et le lac Lácar",
+        "author": "No machine-readable author provided. Albasmalko assumed (based on copyright claims).",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:SAN_MARTIN_DE_LOS_ANDES_LACAR.JPG",
+        "article": "https://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_los_Andes",
+        "path": "assets/photo-enrichment/sanmartin-final-0.webp",
+        "sourceTitle": "SAN MARTIN DE LOS ANDES LACAR.JPG",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Sur la route des Sept Lacs",
+        "author": "No machine-readable author provided. Albasmalko assumed (based on copyright claims).",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:CAMINO_DE_LOS_SIETE_LAGOS.JPG",
+        "article": "https://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_los_Andes",
+        "path": "assets/photo-enrichment/sanmartin-final-1.webp",
+        "sourceTitle": "CAMINO DE LOS SIETE LAGOS.JPG",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "L’ancien pont de Ruca Malén",
+        "author": "Martín Gaitán",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Puente_Viejo_de_Ruca_Malen,_Ruta_de_los_7_Lagos.jpg",
+        "article": "https://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_los_Andes",
+        "path": "assets/photo-enrichment/sanmartin-final-2.webp",
+        "sourceTitle": "Puente Viejo de Ruca Malen, Ruta de los 7 Lagos.jpg",
+        "width": 760,
+        "height": 570,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "alerces": {
+    "images": [
+      {
+        "title": "La rivière Arrayanes et ses forêts",
+        "author": "Andres.fiorini",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:RioArrayanes.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Alerces_National_Park",
+        "path": "assets/photo-enrichment/alerces-final-0.webp",
+        "sourceTitle": "RioArrayanes.jpg",
+        "width": 760,
+        "height": 504,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le lac Menéndez et le massif du Torrecillas",
+        "author": "Magui",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Lago_Menendez_1.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Alerces_National_Park",
+        "path": "assets/photo-enrichment/alerces-final-1.webp",
+        "sourceTitle": "Lago Menendez 1.jpg",
+        "width": 495,
+        "height": 320,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Un alerce dans le parc national",
+        "author": "littletroll",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:ALERCE_O_LAHUAN_-_Parque_Nacional_Los_Alerces_-_Chubut_-_Argentina_-_panoramio.jpg",
+        "article": "https://en.wikipedia.org/wiki/Los_Alerces_National_Park",
+        "path": "assets/photo-enrichment/alerces-final-2.webp",
+        "sourceTitle": "ALERCE O LAHUAN - Parque Nacional Los Alerces - Chubut - Argentina - panoramio.jpg",
+        "width": 760,
+        "height": 570,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "uco": {
+    "images": [
+      {
+        "title": "Vignes de Los Árboles face aux Andes",
+        "author": "David",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vineyard_in_Mendoza,_Argentina.jpg",
+        "article": "https://en.wikipedia.org/wiki/Uco_Valley",
+        "path": "assets/photo-enrichment/uco-final-0.webp",
+        "sourceTitle": "Vineyard in Mendoza, Argentina.jpg",
+        "width": 840,
+        "height": 521,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "La bodega DiamAndes dans la vallée de Uco",
+        "author": "Steve Ryan",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Bodega_Diamandes.jpg",
+        "article": "https://en.wikipedia.org/wiki/Uco_Valley",
+        "path": "assets/photo-enrichment/uco-final-1.webp",
+        "sourceTitle": "Bodega Diamandes.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "La vallée de Uco et la cordillère",
+        "author": "Cornelius Kibelka from Berlin, Germany",
+        "license": "CC BY-SA 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:El_Valle_de_Uco_y_los_Andes_(4775311449).jpg",
+        "article": "https://en.wikipedia.org/wiki/Uco_Valley",
+        "path": "assets/photo-enrichment/uco-final-2.webp",
+        "sourceTitle": "El Valle de Uco y los Andes (4775311449).jpg",
+        "width": 839,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "aconcagua": {
+    "images": [
+      {
+        "title": "Le massif de l’Aconcagua",
+        "author": "Daniel Peppes Gauer",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Monte_Aconcagua.jpg",
+        "article": "https://en.wikipedia.org/wiki/Aconcagua",
+        "path": "assets/photo-enrichment/aconcagua-final-0.webp",
+        "sourceTitle": "Monte Aconcagua.jpg",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "L’Aconcagua vu du ciel",
+        "sourceTitle": "Aconcagua2016.jpg",
+        "author": "Bjørn Christian Tørrissen",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aconcagua2016.jpg",
+        "article": "https://en.wikipedia.org/wiki/Aconcagua",
+        "path": "assets/photo-enrichment/aconcagua-final-1.webp",
+        "width": 840,
+        "height": 464,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le pont naturel et les anciens thermes de Puente del Inca",
+        "author": "Murgatroyd49",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Puente_del_Inca_and_spa.jpg",
+        "article": "https://en.wikipedia.org/wiki/Aconcagua",
+        "path": "assets/photo-enrichment/aconcagua-final-2.webp",
+        "sourceTitle": "Puente del Inca and spa.jpg",
+        "width": 840,
+        "height": 532,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "cuevamanos": {
+    "images": [
+      {
+        "title": "Les mains peintes de la Cueva de las Manos",
+        "sourceTitle": "Cuevamanos1.JPG",
+        "author": "Maclemo",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Cuevamanos1.JPG",
+        "article": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+        "path": "assets/photo-enrichment/cuevamanos-final-0.webp",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Peintures rupestres du Río Pinturas",
+        "author": "Reinhard Jahn, Mannheim / nanosmile",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:RioPinturas-003.jpg",
+        "article": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+        "path": "assets/photo-enrichment/cuevamanos-final-1.webp",
+        "sourceTitle": "RioPinturas-003.jpg",
+        "width": 760,
+        "height": 491,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le site de la grotte dans le canyon du Río Pinturas",
+        "author": "LuigiStudio",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cueva_de_las_Manos.jpg",
+        "article": "https://en.wikipedia.org/wiki/Cueva_de_las_Manos",
+        "path": "assets/photo-enrichment/cuevamanos-final-2.webp",
+        "sourceTitle": "Cueva de las Manos.jpg",
+        "width": 840,
+        "height": 410,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "chalten": {
+    "images": [
+      {
+        "title": "Le Fitz Roy depuis la lagune Capri",
+        "author": "Alejandro Dau",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Fitz_Roy_y_laguna_Capri.JPG",
+        "article": "https://en.wikipedia.org/wiki/Fitz_Roy",
+        "path": "assets/photo-enrichment/chalten-final-0.webp",
+        "sourceTitle": "Fitz Roy y laguna Capri.JPG",
+        "width": 840,
+        "height": 473,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le Fitz Roy et la Laguna de los Tres",
+        "author": "Gedankenstuecke",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Los_Glaciares_-_Fitz_Roy_006.jpg",
+        "article": "https://en.wikipedia.org/wiki/Fitz_Roy",
+        "path": "assets/photo-enrichment/chalten-final-1.webp",
+        "sourceTitle": "Los Glaciares - Fitz Roy 006.jpg",
+        "width": 420,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "El Chaltén au pied des montagnes",
+        "author": "David",
+        "license": "CC BY 2.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "url": "https://commons.wikimedia.org/wiki/File:El_Chalt%C3%A9n.jpg",
+        "article": "https://en.wikipedia.org/wiki/El_Chalt%C3%A9n",
+        "path": "assets/photo-enrichment/chalten-final-2.webp",
+        "width": 760,
+        "height": 464,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "uspallata": {
+    "images": [
+      {
+        "title": "Les sommets des Andes près d’Uspallata",
+        "sourceTitle": "518 Arg Uspallata paesaggio.JPG",
+        "author": "Simona.cerrato",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:518_Arg_Uspallata_paesaggio.JPG",
+        "article": "https://en.wikipedia.org/wiki/Uspallata",
+        "path": "assets/photo-enrichment/uspallata-final-0.webp",
+        "width": 840,
+        "height": 563,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "La vallée d’Uspallata",
+        "author": "Graciela Di Fabio",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Uspallata_landscape.JPG",
+        "article": "https://en.wikipedia.org/wiki/Uspallata",
+        "path": "assets/photo-enrichment/uspallata-final-1.webp",
+        "width": 760,
+        "height": 570,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les Bóvedas de San Martín à Uspallata",
+        "author": "Eduardo N. Fortes",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:B%C3%B3vedas_de_San_Mart%C3%ADn.jpg",
+        "article": "https://en.wikipedia.org/wiki/Uspallata",
+        "path": "assets/photo-enrichment/uspallata-final-2.webp",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "sanrafael": {
+    "images": [
+      {
+        "title": "Les eaux du canyon de l’Atuel",
+        "author": "Mauricio V. Genta",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Ca%C3%B1on_de_Atuel_(Mendoza)_2022-11_(31).jpg",
+        "article": "https://en.wikipedia.org/wiki/Atuel_Canyon",
+        "path": "assets/photo-enrichment/sanrafael-final-0.webp",
+        "sourceTitle": "Cañon de Atuel (Mendoza) 2022-11 (31).jpg",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Les gorges de l’Atuel",
+        "author": "Pablo D. Flores",
+        "license": "CC BY-SA 2.5",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+        "url": "https://commons.wikimedia.org/wiki/File:Atuel_Canyon_1.jpg",
+        "article": "https://en.wikipedia.org/wiki/Atuel_Canyon",
+        "path": "assets/photo-enrichment/sanrafael-final-1.webp",
+        "sourceTitle": "Atuel Canyon 1.jpg",
+        "width": 472,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le Río Atuel dans Valle Grande",
+        "author": "Lautarosanch",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Rio_En_Valle_Grande_San_Rafael.jpg",
+        "article": "https://en.wikipedia.org/wiki/San_Rafael%2C_Mendoza",
+        "path": "assets/photo-enrichment/sanrafael-final-2.webp",
+        "width": 840,
+        "height": 563,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "cafayate": {
+    "images": [
+      {
+        "title": "La Quebrada de las Conchas depuis Tres Cruces",
+        "author": "Own work",
+        "license": "Public domain",
+        "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+        "url": "https://commons.wikimedia.org/wiki/File:Quebrada_de_Cafayate.JPG",
+        "article": "https://en.wikipedia.org/wiki/Quebrada_de_las_Conchas",
+        "path": "assets/photo-enrichment/cafayate-final-0.webp",
+        "sourceTitle": "Quebrada de Cafayate.JPG",
+        "width": 840,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Paysage de la Quebrada de las Conchas",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Quebrada_de_las_Conchas_06.jpg",
+        "article": "https://en.wikipedia.org/wiki/Quebrada_de_las_Conchas",
+        "path": "assets/photo-enrichment/cafayate-final-1.webp",
+        "sourceTitle": "Quebrada de las Conchas 06.jpg",
+        "width": 840,
+        "height": 209,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "L’Amphithéâtre de la Quebrada de las Conchas",
+        "author": "Jlla00",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Cafayate_Amphitheatre.JPG",
+        "article": "https://es.wikipedia.org/wiki/Cafayate",
+        "path": "assets/photo-enrichment/cafayate-final-2.webp",
+        "width": 427,
+        "height": 630,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Vignobles près de Cafayate",
+        "author": "Jlla00",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vineyards_near_mountains.jpg",
+        "article": "https://es.wikipedia.org/wiki/Cafayate",
+        "path": "assets/photo-enrichment/cafayate-final-3.webp",
+        "width": 840,
+        "height": 563,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  },
+  "mendoza": {
+    "images": [
+      {
+        "title": "Un vignoble de la province de Mendoza",
+        "author": "European citizen",
+        "license": "CC BY-SA 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Vignoble_Mendoza_Argentine.jpg",
+        "article": "https://en.wikipedia.org/wiki/Mendoza_wine",
+        "path": "assets/photo-enrichment/mendoza-final-0.webp",
+        "sourceTitle": "Vignoble Mendoza Argentine.jpg",
+        "width": 840,
+        "height": 264,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Mendoza, porte d’entrée des vignobles",
+        "author": "CavernSaga",
+        "license": "CC BY 3.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "url": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_Mendoza.png",
+        "article": "https://en.wikipedia.org/wiki/Mendoza%2C_Argentina",
+        "path": "assets/photo-enrichment/mendoza-final-1.webp",
+        "width": 760,
+        "height": 427,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      },
+      {
+        "title": "Le parc General San Martín à Mendoza",
+        "author": "Bernard Gagnon",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "url": "https://commons.wikimedia.org/wiki/File:General_San_Mart%C3%ADn_Park,_Mendoza_01.jpg",
+        "article": "https://en.wikipedia.org/wiki/Mendoza%2C_Argentina",
+        "path": "assets/photo-enrichment/mendoza-final-2.webp",
+        "width": 840,
+        "height": 560,
+        "changes": "Redimensionnement et compression WebP ; cadrage conservé."
+      }
+    ]
+  }
+}
