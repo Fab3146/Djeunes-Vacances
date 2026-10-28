@@ -1,0 +1,136 @@
+{
+  "format": "argentine-a9",
+  "version": 1,
+  "state": {
+    "version": 1,
+    "active": "p9",
+    "profiles": [
+      {
+        "id": "p1",
+        "name": "Ami 1",
+        "themes": {
+          "nature": 0
+        },
+        "votes": {
+          "tandil": 1
+        }
+      },
+      {
+        "id": "p2",
+        "name": "Ami 2",
+        "themes": {
+          "nature": 1
+        },
+        "votes": {
+          "tandil": 2
+        }
+      },
+      {
+        "id": "p3",
+        "name": "Ami 3",
+        "themes": {
+          "nature": 2
+        },
+        "votes": {
+          "tandil": 3
+        }
+      },
+      {
+        "id": "p4",
+        "name": "Ami 4",
+        "themes": {
+          "nature": 3
+        },
+        "votes": {
+          "tandil": 4
+        }
+      },
+      {
+        "id": "p5",
+        "name": "Ami 5",
+        "themes": {
+          "nature": 0
+        },
+        "votes": {
+          "tandil": 5
+        }
+      },
+      {
+        "id": "p6",
+        "name": "Ami 6",
+        "themes": {
+          "nature": 1
+        },
+        "votes": {
+          "tandil": 1
+        }
+      },
+      {
+        "id": "p7",
+        "name": "Ami 7",
+        "themes": {
+          "nature": 2
+        },
+        "votes": {
+          "tandil": 2
+        }
+      },
+      {
+        "id": "p8",
+        "name": "Ami 8",
+        "themes": {
+          "nature": 3
+        },
+        "votes": {
+          "tandil": 3
+        }
+      },
+      {
+        "id": "p9",
+        "name": "Ami 9",
+        "themes": {
+          "nature": 0
+        },
+        "votes": {
+          "tandil": 4
+        }
+      }
+    ],
+    "settings": {
+      "arrival": "2027-02-04",
+      "departure": "2027-02-16",
+      "maxDrive": 5,
+      "confirmed": false
+    },
+    "selected": {
+      "templateId": "cote",
+      "stops": [
+        {
+          "id": "ba",
+          "nights": 1
+        },
+        {
+          "id": "chascomus",
+          "nights": 1
+        },
+        {
+          "id": "pinamar",
+          "nights": 3
+        },
+        {
+          "id": "mardel",
+          "nights": 3
+        },
+        {
+          "id": "tandil",
+          "nights": 3
+        },
+        {
+          "id": "ba",
+          "nights": 1
+        }
+      ]
+    },
+    "notes": "Ancienne sauvegarde de démonstration"
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "checked": "2026-10-27",
+  "notes": [
+    "Les durées de séjour et d’activité sont des estimations éditoriales de préparation, hors grands transferts ; elles ne sont pas des horaires ou disponibilités garantis.",
+    "Les coordonnées situent une base ou le lieu principal sur une carte schématique ; elles ne désignent pas nécessairement l’entrée ou le stationnement.",
+    "Aucune liaison routière ni variante de circuit n’est ajoutée par cet enrichissement. Les nouvelles fiches peuvent recevoir des votes mais restent hors circuits préparés."
+  ],
+  "additions": [
+    {
+      "id": "valdes",
+      "name": "Puerto Madryn & Península Valdés",
+      "region": "Patagonie",
+      "lat": -42.767,
+      "lon": -65.038,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 0,
+      "tags": [
+        "wildlife",
+        "nature",
+        "relax"
+      ],
+      "intro": "Falaises, steppe et faune marine : Puerto Madryn est une base pour explorer la péninsule et les rivages de l’Atlantique.",
+      "feb": "Été chaud, sec et venteux. Février est hors de la saison habituelle des baleines franches australes. Privilégier paysages et otaries ; la présence d’orques n’est jamais garantie.",
+      "activities": [
+        {
+          "name": "Península Valdés : côtes & miradors",
+          "hours": 8,
+          "tip": "Prévoir une journée entière, avec de longs déplacements sur la péninsule. Choisir les secteurs ouverts et les observations selon la saison."
+        },
+        {
+          "name": "Punta Loma & otaries",
+          "hours": 3,
+          "tip": "Observation depuis les espaces autorisés ; excursion en mer éventuelle avec un opérateur habilité, selon météo."
+        },
+        {
+          "name": "Puerto Madryn & bord de mer",
+          "hours": 3,
+          "tip": "Balade côtière, plage et découverte de la ville entre deux excursions."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "La côte patagonique demande plusieurs étapes de liaison depuis Buenos Aires. Aucun aller-retour complet n’a été vérifié pour cette fiche ; elle n’est pas intégrée aux circuits préparés.",
+      "sources": [
+        "https://www.argentina.travel/actividades/peninsula-valdes"
+      ]
+    },
+    {
+      "id": "puntatombo",
+      "name": "Punta Tombo",
+      "region": "Patagonie",
+      "lat": -44.045,
+      "lon": -65.225,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "wildlife",
+        "nature",
+        "culture"
+      ],
+      "intro": "Une colonie de manchots de Magellan au bord de la steppe : les sentiers permettent d’observer leurs allées et venues vers l’océan.",
+      "feb": "Février se situe dans la période habituelle de présence des manchots, de septembre à avril. Soleil et vent marqués ; ouverture et conditions à confirmer pour le jour choisi.",
+      "activities": [
+        {
+          "name": "Sentier de la colonie de manchots",
+          "hours": 3,
+          "tip": "Rester sur le parcours, laisser les animaux traverser et garder ses distances. Ne pas les toucher ni les nourrir."
+        },
+        {
+          "name": "Centre d’interprétation",
+          "hours": 1,
+          "tip": "Comprendre le cycle de reproduction et l’écosystème avant de parcourir les sentiers."
+        },
+        {
+          "name": "Paysages de steppe & côte",
+          "hours": 1,
+          "tip": "Observer les oiseaux et les guanacos depuis les zones autorisées ; prévoir de l’eau et une protection solaire."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Excursion généralement organisée depuis Trelew ou Puerto Madryn, avec une route d’accès partiellement en ripio. Les transferts et l’aller-retour depuis Buenos Aires restent à planifier séparément.",
+      "sources": [
+        "https://chubutpatagonia.gob.ar/experiencia/punta-tombo-la-ciudad-de-pinguinos-mas-grande-del-mundo/",
+        "https://chubutpatagonia.gob.ar/los-pinguinos-de-magallanes-llegan-a-chubut-para-brindar-uno-de-los-grandes-espectaculos-de-la-fauna-patagonica/"
+      ]
+    },
+    {
+      "id": "talampaya",
+      "name": "Parc national Talampaya",
+      "region": "Cuyo",
+      "lat": -29.794,
+      "lon": -67.843,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "culture",
+        "hike"
+      ],
+      "intro": "Un canyon de grès rouge, des parois immenses et des traces anciennes : un grand paysage géologique de La Rioja.",
+      "feb": "Février peut être très chaud, avec des pluies soudaines susceptibles de suspendre les visites. Préférer un départ matinal et confirmer les conditions auprès du parc.",
+      "activities": [
+        {
+          "name": "Cañón de Talampaya avec un guide",
+          "hours": 3,
+          "tip": "Visite encadrée ; la voiture personnelle reste au stationnement. Réserver les places pour neuf."
+        },
+        {
+          "name": "Pétroglyphes & paysages du canyon",
+          "hours": 1,
+          "tip": "À découvrir dans le cadre du parcours autorisé, sans toucher les gravures."
+        },
+        {
+          "name": "Sentier ou excursion complémentaire",
+          "hours": 3,
+          "tip": "Choisir une sortie adaptée à la chaleur et au niveau du groupe avec les prestataires habilités."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Base possible à Villa Unión ou dans les environs. Plusieurs journées de liaison sont nécessaires depuis Buenos Aires ; aucun circuit complet n’est encore documenté dans l’outil.",
+      "sources": [
+        "https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-talampaya/biodiversidad",
+        "https://www.argentina.gob.ar/sites/default/files/informacion_general_pnt-2025.pdf"
+      ]
+    },
+    {
+      "id": "ischigualasto",
+      "name": "Ischigualasto · vallée de la Lune",
+      "region": "Cuyo",
+      "lat": -30.16,
+      "lon": -67.843,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "culture"
+      ],
+      "intro": "Des reliefs sculptés et des sols aux couleurs minérales composent ce paysage du Trias, célèbre pour ses fossiles et ses formes insolites.",
+      "feb": "Été désertique très chaud : février est moins confortable que le printemps ou l’automne. Vérifier météo, accès et départs des visites avant de rejoindre le parc.",
+      "activities": [
+        {
+          "name": "Circuit principal accompagné",
+          "hours": 4,
+          "tip": "Parcours guidé avec arrêts aux formations emblématiques ; modalités de circulation et créneau à confirmer auprès du parc."
+        },
+        {
+          "name": "Centre d’interprétation paléontologique",
+          "hours": 1,
+          "tip": "Découvrir l’histoire du Trias et les fossiles de la région."
+        },
+        {
+          "name": "Valle Pintado & formes sculptées",
+          "hours": 1,
+          "tip": "Arrêts photo à intégrer à la visite principale ; respecter les limites du parcours."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "À organiser avec une base dans la région de Valle Fértil ou Villa Unión. Talampaya est voisin, mais les deux visites et leurs transferts méritent des journées distinctes ; boucle depuis Buenos Aires non vérifiée.",
+      "sources": [
+        "https://www.argentina.travel/actividades/parque-provincial-ischigualasto"
+      ]
+    },
+    {
+      "id": "humahuaca",
+      "name": "Quebrada de Humahuaca & Hornocal",
+      "region": "Nord-Ouest",
+      "lat": -23.205,
+      "lon": -65.35,
+      "days": [
+        3,
+        4
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "culture",
+        "hike"
+      ],
+      "intro": "Villages andins, murs d’adobe et montagnes multicolores : Tilcara, Humahuaca et le Hornocal prolongent la découverte au-delà de Purmamarca.",
+      "feb": "Février appartient à la saison des pluies : les pistes peuvent être dégradées. Le mirador du Hornocal est en très haute altitude ; monter progressivement et adapter l’effort.",
+      "activities": [
+        {
+          "name": "Humahuaca : ruelles & patrimoine",
+          "hours": 3,
+          "tip": "Découvrir le centre historique et la cuisine régionale sans multiplier les étapes le même jour."
+        },
+        {
+          "name": "Serranía del Hornocal",
+          "hours": 4,
+          "tip": "Excursion depuis Humahuaca avec un transport adapté aux conditions. Vérifier la piste et prévoir une acclimatation avant le mirador."
+        },
+        {
+          "name": "Tilcara & Pucará",
+          "hours": 4,
+          "tip": "Prévoir une autre demi-journée pour le village, le site archéologique et son musée ; transfert à ajouter selon la base choisie."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Le Nord-Ouest est éloigné de Buenos Aires. Cette fiche enrichit la découverte mais n’ajoute pas automatiquement d’étape au circuit Salta ; liaisons et nuits doivent être vérifiées avant intégration.",
+      "sources": [
+        "https://www.argentina.travel/actividades/humahuaca",
+        "https://www.turismo.jujuy.gob.ar/wp-content/uploads/Catalogo-TRC-Rutas-73-y-83.pdf"
+      ]
+    },
+    {
+      "id": "salinas",
+      "name": "Salinas Grandes",
+      "region": "Nord-Ouest",
+      "lat": -23.602,
+      "lon": -65.887,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 0,
+      "tags": [
+        "nature",
+        "culture"
+      ],
+      "intro": "Un immense désert de sel dans la Puna, avec des bassins d’extraction, des horizons blancs et les Andes autour de la route d’accès.",
+      "feb": "Pluies estivales possibles : un effet miroir peut apparaître, sans être garanti. Vérifier la RN 52 ; le passage par la Cuesta de Lipán dépasse 4 000 m d’altitude.",
+      "activities": [
+        {
+          "name": "Découverte du salar avec un guide local",
+          "hours": 2,
+          "tip": "Suivre les parcours autorisés et les consignes des communautés ; ne pas s’aventurer seul avec la voiture dans le salar."
+        },
+        {
+          "name": "Bassins de sel & savoir-faire local",
+          "hours": 1,
+          "tip": "Comprendre l’extraction et découvrir l’artisanat proposé sur place."
+        },
+        {
+          "name": "Cuesta de Lipán & panoramas",
+          "hours": 3,
+          "tip": "Faire des pauses sur les emplacements autorisés pendant l’excursion depuis Purmamarca ; acclimatation et conditions de route priment."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Visite généralement réalisée en excursion depuis Purmamarca. La route de montagne et son aller-retour doivent être comptés ; cette nouvelle fiche ne crée pas de trajet vérifié dans les circuits.",
+      "sources": [
+        "https://www.argentina.travel/actividades/salinas-grandes-jujuy"
+      ]
+    },
+    {
+      "id": "cachi",
+      "name": "Cachi & parc Los Cardones",
+      "region": "Nord-Ouest",
+      "lat": -25.121,
+      "lon": -66.163,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "culture",
+        "hike"
+      ],
+      "intro": "Un village blanc des vallées Calchaquíes, des champs de cactus et les grands virages de la Cuesta del Obispo : une autre facette du Nord.",
+      "feb": "Saison des pluies : se renseigner sur la Cuesta del Obispo et les portions de ripio de la RN 40. Altitude, brouillard et état des pistes peuvent ralentir les déplacements.",
+      "activities": [
+        {
+          "name": "Cachi : village & musée archéologique",
+          "hours": 3,
+          "tip": "Marcher dans les rues autour de la place et découvrir le patrimoine local."
+        },
+        {
+          "name": "Los Cardones & Recta del Tin Tin",
+          "hours": 5,
+          "tip": "Parcours panoramique avec de courtes marches autorisées ; compter les déplacements depuis la base choisie."
+        },
+        {
+          "name": "Quebrada de las Flechas",
+          "hours": 8,
+          "tip": "À découvrir lors d’une journée de liaison dédiée vers Cafayate, sur une route comportant du ripio. Vérifier sa praticabilité avant le départ."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "La boucle Cachi–Cafayate est un voyage régional à part entière. Les étapes de liaison depuis Buenos Aires et les portions de ripio ne sont pas intégrées au calcul des 12 circuits actuels.",
+      "sources": [
+        "https://larutanatural.gob.ar/es/circuito/24/vuelta-a-los-valles-calchaquies",
+        "https://www.argentina.gob.ar/node/492882",
+        "https://larutanatural.gob.ar/es/rutas/10/valles-quebradas-y-yungas"
+      ]
+    },
+    {
+      "id": "sanmartin",
+      "name": "San Martín de los Andes & Sept Lacs",
+      "region": "Patagonie",
+      "lat": -40.158,
+      "lon": -71.353,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "relax"
+      ],
+      "intro": "Le lac Lácar au pied de la ville, des forêts et la route des Sept Lacs vers Villa La Angostura : une base pour prendre le temps des paysages.",
+      "feb": "Février est une bonne période pour les promenades et les lacs, avec une forte fréquentation estivale. Garder des vêtements chauds et vérifier l’état des sentiers.",
+      "activities": [
+        {
+          "name": "Route des Sept Lacs",
+          "hours": 8,
+          "tip": "Journée panoramique avec arrêts. Le tronçon vers Villa La Angostura est d’environ 110 km à l’aller ; prévoir séparément le retour ou la nuit suivante."
+        },
+        {
+          "name": "Lac Lácar & bord de ville",
+          "hours": 3,
+          "tip": "Balade le long de l’eau et découverte de San Martín ; baignade uniquement dans les zones et conditions adaptées."
+        },
+        {
+          "name": "Forêts & randonnée près du Lácar",
+          "hours": 4,
+          "tip": "Choisir un sentier ouvert correspondant au niveau du groupe et aux conditions du jour."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Cette base prolonge la région des lacs, loin de Buenos Aires. La fiche ne modifie pas automatiquement le circuit Bariloche–Villa La Angostura : liaisons et nuits supplémentaires restent à vérifier.",
+      "sources": [
+        "https://larutanatural.gob.ar/es/imperdible/48/ruta-de-los-siete-lagos"
+      ]
+    },
+    {
+      "id": "alerces",
+      "name": "Parc national Los Alerces",
+      "region": "Patagonie",
+      "lat": -42.893,
+      "lon": -71.603,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "wildlife"
+      ],
+      "intro": "Des lacs limpides, le río Arrayanes et des forêts anciennes : un grand parc andin à découvrir depuis Esquel, Trevelin ou les hébergements autorisés du parc.",
+      "feb": "Février fait partie de la belle saison de visite. Météo et vent peuvent modifier les sorties ; contrôler les ouvertures et éventuelles restrictions liées aux incendies avant de venir.",
+      "activities": [
+        {
+          "name": "Río Arrayanes & passerelle",
+          "hours": 3,
+          "tip": "Balade entre rivière et forêt sur les sentiers ouverts ; prévoir le transfert vers le secteur de départ."
+        },
+        {
+          "name": "Lac Futalaufquen & courtes marches",
+          "hours": 4,
+          "tip": "Choisir une promenade adaptée, avec pauses au bord du lac dans les espaces autorisés."
+        },
+        {
+          "name": "Alerzal millénaire",
+          "hours": 7,
+          "tip": "Excursion combinant navigation et marche guidée selon les départs disponibles ; réserver pour le groupe et confirmer la météo."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "La région d’Esquel demande un voyage patagonien avec de longues liaisons depuis Buenos Aires. Aucun aller-retour routier complet n’est validé dans l’outil pour cette destination.",
+      "sources": [
+        "https://www.argentina.travel/actividades/parque-nacional-los-alerces"
+      ]
+    },
+    {
+      "id": "uco",
+      "name": "Vallée de Uco",
+      "region": "Cuyo",
+      "lat": -33.578,
+      "lon": -69.015,
+      "days": [
+        2,
+        3
+      ],
+      "effort": 0,
+      "tags": [
+        "food",
+        "nature",
+        "relax"
+      ],
+      "intro": "Vignobles au pied des Andes, architecture des bodegas et grandes tablées : la vallée réunit Tupungato, Tunuyán et San Carlos au sud de Mendoza.",
+      "feb": "Été chaud et vignes en végétation. Les vendanges varient selon les domaines et les cépages ; réserver les visites sans présumer d’un événement précis en février.",
+      "activities": [
+        {
+          "name": "Bodegas & dégustation",
+          "hours": 4,
+          "tip": "Choisir une ou deux propriétés proches et réserver pour neuf. Prévoir un conducteur sobre ou un transport avec chauffeur."
+        },
+        {
+          "name": "Déjeuner face aux Andes",
+          "hours": 3,
+          "tip": "Une activité à part entière : prévoir les déplacements entre le restaurant et l’hébergement."
+        },
+        {
+          "name": "Paysages de Tupungato & Tunuyán",
+          "hours": 4,
+          "tip": "Petite boucle dans les vignobles, avec arrêts autorisés et découverte des bourgs de la vallée."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "La vallée peut compléter un séjour à Mendoza, mais ses transferts locaux et ses nuits ne sont pas encore documentés comme variante du circuit Cuyo.",
+      "sources": [
+        "https://argentina.travel/actividades/valle-de-uco"
+      ]
+    },
+    {
+      "id": "aconcagua",
+      "name": "Aconcagua & Puente del Inca",
+      "region": "Cuyo",
+      "lat": -32.825,
+      "lon": -69.943,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 1,
+      "tags": [
+        "nature",
+        "hike",
+        "culture"
+      ],
+      "intro": "Depuis la vallée de Horcones, les vues sur l’Aconcagua et les couleurs du pont naturel de Puente del Inca donnent accès aux paysages de la haute montagne.",
+      "feb": "Février est en saison estivale de montagne, mais vent, froid et fermetures restent possibles. Prévoir l’altitude et vérifier les permis ; voir l’Aconcagua ne signifie pas en faire l’ascension.",
+      "activities": [
+        {
+          "name": "Laguna de Horcones & panorama",
+          "hours": 2,
+          "tip": "Promenade d’altitude sur le circuit touristique autorisé, avec entrée et conditions d’accès à vérifier."
+        },
+        {
+          "name": "Puente del Inca",
+          "hours": 1,
+          "tip": "Observer le pont naturel depuis les zones ouvertes au public, sans franchir les limites de protection."
+        },
+        {
+          "name": "Vallée de la haute montagne",
+          "hours": 3,
+          "tip": "Arrêts panoramiques sur la RN 7 ; ajouter la liaison depuis Uspallata ou Mendoza et éviter de cumuler une longue randonnée le même jour."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Cette fiche rend explicite une excursion déjà citée depuis Uspallata. Elle ne crée pas une nouvelle nuit au pied du sommet ni un transfert validé ; garder une base et compter la route aller-retour.",
+      "sources": [
+        "https://www.mendoza.gov.ar/aconcagua/",
+        "https://www.mendoza.gov.ar/prensa/balance-de-la-temporada-en-el-parque-aconcagua/"
+      ]
+    },
+    {
+      "id": "cuevamanos",
+      "name": "Cueva de las Manos",
+      "region": "Patagonie",
+      "lat": -47.155,
+      "lon": -70.656,
+      "days": [
+        1,
+        2
+      ],
+      "effort": 1,
+      "tags": [
+        "culture",
+        "nature",
+        "hike"
+      ],
+      "intro": "Des mains peintes sur les parois du cañadón du río Pinturas : un site archéologique majeur dans les paysages ouverts de la steppe de Santa Cruz.",
+      "feb": "Février offre de longues journées, mais le vent et le mauvais temps peuvent interrompre la visite. Confirmer les créneaux guidés et l’état des pistes avant de prendre la route.",
+      "activities": [
+        {
+          "name": "Visite guidée des peintures rupestres",
+          "hours": 2,
+          "tip": "Suivre le guide et les espaces protégés ; ne pas toucher les peintures ou les parois."
+        },
+        {
+          "name": "Panoramas du cañadón du río Pinturas",
+          "hours": 2,
+          "tip": "Observer le paysage depuis les secteurs accessibles, sans improviser de descente dans le canyon."
+        },
+        {
+          "name": "Étape dans la steppe patagonienne",
+          "hours": 3,
+          "tip": "Préparer une journée avec marge pour les pistes, le carburant et les services espacés ; temps de liaison à ajouter selon l’hébergement."
+        }
+      ],
+      "iconic": true,
+      "distant": true,
+      "roadNote": "Destination isolée sur la Patagonie intérieure, avec un accès final en ripio. L’aller-retour depuis Buenos Aires n’est pas compatible par défaut : il reste à documenter dans un autre circuit.",
+      "sources": [
+        "https://www.larutanatural.gob.ar/es/circuito/21/los-antiguos-lago-posadas-y-cueva-de-las-manos"
+      ]
+    }
+  ],
+  "updates": {
+    "ba": {
+      "iconic": true,
+      "intro": "La Boca et ses couleurs, les cafés de San Telmo, les mausolées de Recoleta et les salles du Teatro Colón : une capitale à découvrir aussi à pied et autour d’une table.",
+      "activities": [
+        {
+          "name": "San Telmo & Plaza de Mayo",
+          "hours": 3,
+          "tip": "Flâner dans le quartier historique ; le marché couvert se visite aussi en semaine."
+        },
+        {
+          "name": "La Boca & Caminito",
+          "hours": 2,
+          "tip": "Couleurs et art de rue, à découvrir en journée."
+        },
+        {
+          "name": "Palermo, parrilla & tango",
+          "hours": 4,
+          "tip": "Choisir une bonne table et réserver ensemble pour neuf."
+        },
+        {
+          "name": "Cimetière de Recoleta",
+          "hours": 2,
+          "tip": "Architecture et histoire autour des mausolées. Vérifier les modalités d’entrée et prévoir le quartier à pied."
+        },
+        {
+          "name": "Teatro Colón",
+          "hours": 1.5,
+          "tip": "Visite guidée de l’architecture, selon disponibilité ; un spectacle dépend de la programmation de février, à confirmer."
+        }
+      ],
+      "sources": [
+        "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/cementerio-de-la-recoleta",
+        "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/teatro-col%C3%B3n"
+      ]
+    },
+    "iguazu": {
+      "iconic": true
+    },
+    "calafate": {
+      "iconic": true,
+      "name": "El Calafate & Perito Moreno",
+      "intro": "Face au glacier Perito Moreno, les passerelles dévoilent un front de glace immense. El Calafate reste la base pour visiter cette partie du parc Los Glaciares.",
+      "sources": [
+        "https://www.argentina.travel/planea-tu-viaje/parque-nacional-los-glaciares-el-chalten-y-el-calafate-santa-cruz"
+      ]
+    },
+    "chalten": {
+      "iconic": true,
+      "name": "El Chaltén & Fitz Roy",
+      "intro": "Le Fitz Roy, les lagunes et les sentiers du parc Los Glaciares : El Chaltén est une base de randonnée, avec des sorties courtes ou de grandes journées en montagne.",
+      "feb": "Été austral favorable à la marche et longues journées. Vent, pluie et nuages peuvent masquer les sommets ; conserver une journée souple et vérifier les sentiers.",
+      "sources": [
+        "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/hacer-trekking-en-el-chalten",
+        "https://www.argentina.travel/planea-tu-viaje/parque-nacional-los-glaciares-el-chalten-y-el-calafate-santa-cruz"
+      ]
+    },
+    "ushuaia": {
+      "iconic": true
+    },
+    "bariloche": {
+      "iconic": true,
+      "name": "Bariloche & Nahuel Huapi",
+      "intro": "Le parc national Nahuel Huapi associe lacs, forêts et panoramas andins. Bariloche sert de base pour le Circuito Chico, le Cerro Campanario et les excursions sur l’eau.",
+      "activities": [
+        {
+          "name": "Circuito Chico",
+          "hours": 6,
+          "tip": "Route panoramique et points de vue ; compter la conduite locale.",
+          "driveMinutes": 150
+        },
+        {
+          "name": "Cerro Campanario",
+          "hours": 3,
+          "tip": "Vue sur les lacs à pied ou en remontée selon ouverture."
+        },
+        {
+          "name": "Parc Nahuel Huapi : lac & forêt",
+          "hours": 5,
+          "tip": "Choisir une promenade ou une navigation selon la météo et les secteurs ouverts ; prévoir les transports locaux."
+        },
+        {
+          "name": "Chocolateries & centre de Bariloche",
+          "hours": 2,
+          "tip": "Une pause en ville entre les sorties nature."
+        }
+      ],
+      "sources": [
+        "https://nahuelhuapi.gov.ar/"
+      ]
+    },
+    "angostura": {
+      "iconic": true
+    },
+    "salta": {
+      "iconic": true
+    },
+    "cafayate": {
+      "iconic": true,
+      "name": "Cafayate & vallées Calchaquíes",
+      "intro": "Vignobles d’altitude, torrontés et roches rouges de la Quebrada de las Conchas : Cafayate ouvre sur les vallées Calchaquíes, qui se prolongent vers Cachi.",
+      "sources": [
+        "https://larutanatural.gob.ar/es/circuito/24/vuelta-a-los-valles-calchaquies",
+        "https://larutanatural.gob.ar/es/rutas/10/valles-quebradas-y-yungas"
+      ]
+    },
+    "purmamarca": {
+      "iconic": true,
+      "feb": "Pluies estivales et altitude. Vérifier les routes avant les excursions ; aux Salinas Grandes, l’effet miroir dépend de l’eau et n’est pas garanti.",
+      "sources": [
+        "https://www.argentina.travel/actividades/salinas-grandes-jujuy",
+        "https://larutanatural.gob.ar/es/rutas/10/valles-quebradas-y-yungas"
+      ]
+    },
+    "mendoza": {
+      "iconic": true
+    },
+    "ibera": {
+      "iconic": true
+    },
+    "cordoba": {
+      "iconic": true
+    },
+    "sanignacio": {
+      "iconic": true
+    },
+    "riocuarto": {
+      "transit": true,
+      "iconic": false,
+      "intro": "Une halte de liaison pour couper la route entre Buenos Aires, les sierras et Cuyo, avec une pause en ville avant de poursuivre le voyage."
+    }
+  },
+  "photoBriefs": {
+    "valdes": [
+      "Falaises et plages de la péninsule",
+      "Otaries à Punta Loma ou sur la péninsule",
+      "Paysage côtier de Puerto Madryn ; ne pas choisir une baleine en couverture de février"
+    ],
+    "puntatombo": [
+      "Manchots de Magellan et nids",
+      "Sentier entre steppe et colonie",
+      "Côte rocheuse de Punta Tombo"
+    ],
+    "talampaya": [
+      "Parois rouges du canyon",
+      "El Monje ou autre formation identifiée",
+      "Pétroglyphes ou visiteurs donnant l’échelle"
+    ],
+    "ischigualasto": [
+      "Valle Pintado",
+      "El Hongo ou El Submarino",
+      "Reliefs lunaires et strates de couleur"
+    ],
+    "humahuaca": [
+      "Serranía del Hornocal",
+      "Pucará de Tilcara",
+      "Ruelles ou place de Humahuaca"
+    ],
+    "salinas": [
+      "Étendue du salar",
+      "Bassins d’extraction",
+      "Cuesta de Lipán ; reflet seulement identifié comme conditionnel"
+    ],
+    "cachi": [
+      "Cardones avec montagne en arrière-plan",
+      "Village de Cachi",
+      "Quebrada de las Flechas"
+    ],
+    "sanmartin": [
+      "Lac Lácar et San Martín",
+      "Mirador sur les Sept Lacs",
+      "Plage ou forêt en été"
+    ],
+    "alerces": [
+      "Río Arrayanes et eau turquoise",
+      "Lac Futalaufquen",
+      "Alerce ancien ou forêt du parc"
+    ],
+    "uco": [
+      "Vignobles et Andes",
+      "Architecture d’une bodega de la vallée",
+      "Rangs de vigne ou dégustation précisément localisée"
+    ],
+    "aconcagua": [
+      "Vue du sommet depuis Horcones",
+      "Puente del Inca",
+      "Laguna de Horcones"
+    ],
+    "cuevamanos": [
+      "Peintures de mains",
+      "Cañadón du río Pinturas",
+      "Vue du site et passerelle"
+    ],
+    "chalten": [
+      "Fitz Roy et Laguna de los Tres en couverture",
+      "Laguna Capri",
+      "Village situé dans son paysage"
+    ],
+    "sanrafael": [
+      "Cañón del Atuel en couverture",
+      "Valle Grande",
+      "Activité nautique locale"
+    ],
+    "uspallata": [
+      "Vallée andine en couverture",
+      "Formations multicolores",
+      "Haute montagne"
+    ],
+    "cafayate": [
+      "Quebrada de las Conchas en couverture",
+      "Vignoble",
+      "Amphithéâtre naturel"
+    ]
+  },
+  "sources": [
+    {
+      "title": "Visit Argentina · Península Valdés et saisons de la faune",
+      "url": "https://www.argentina.travel/actividades/peninsula-valdes"
+    },
+    {
+      "title": "Chubut · Punta Tombo",
+      "url": "https://chubutpatagonia.gob.ar/experiencia/punta-tombo-la-ciudad-de-pinguinos-mas-grande-del-mundo/"
+    },
+    {
+      "title": "Chubut · saison des manchots 2026–2027",
+      "url": "https://chubutpatagonia.gob.ar/los-pinguinos-de-magallanes-llegan-a-chubut-para-brindar-uno-de-los-grandes-espectaculos-de-la-fauna-patagonica/"
+    },
+    {
+      "title": "Parcs nationaux · climat de Talampaya",
+      "url": "https://www.argentina.gob.ar/parquesnacionales/centro/parque-nacional-talampaya/biodiversidad"
+    },
+    {
+      "title": "Parcs nationaux · guide de visite Talampaya",
+      "url": "https://www.argentina.gob.ar/sites/default/files/informacion_general_pnt-2025.pdf"
+    },
+    {
+      "title": "Visit Argentina · Ischigualasto",
+      "url": "https://www.argentina.travel/actividades/parque-provincial-ischigualasto"
+    },
+    {
+      "title": "Visit Argentina · Humahuaca",
+      "url": "https://www.argentina.travel/actividades/humahuaca"
+    },
+    {
+      "title": "Tourisme Jujuy · Hornocal et routes de montagne",
+      "url": "https://www.turismo.jujuy.gob.ar/wp-content/uploads/Catalogo-TRC-Rutas-73-y-83.pdf"
+    },
+    {
+      "title": "Visit Argentina · Salinas Grandes en été",
+      "url": "https://www.argentina.travel/actividades/salinas-grandes-jujuy"
+    },
+    {
+      "title": "La Ruta Natural · vallées Calchaquíes",
+      "url": "https://larutanatural.gob.ar/es/circuito/24/vuelta-a-los-valles-calchaquies"
+    },
+    {
+      "title": "Parcs nationaux · sentiers de Los Cardones",
+      "url": "https://www.argentina.gob.ar/node/492882"
+    },
+    {
+      "title": "La Ruta Natural · routes et pluies du Nord-Ouest",
+      "url": "https://larutanatural.gob.ar/es/rutas/10/valles-quebradas-y-yungas"
+    },
+    {
+      "title": "La Ruta Natural · route des Sept Lacs",
+      "url": "https://larutanatural.gob.ar/es/imperdible/48/ruta-de-los-siete-lagos"
+    },
+    {
+      "title": "Visit Argentina · Los Alerces",
+      "url": "https://www.argentina.travel/actividades/parque-nacional-los-alerces"
+    },
+    {
+      "title": "Visit Argentina · vallée de Uco",
+      "url": "https://argentina.travel/actividades/valle-de-uco"
+    },
+    {
+      "title": "Mendoza · parc Aconcagua",
+      "url": "https://www.mendoza.gov.ar/aconcagua/"
+    },
+    {
+      "title": "Mendoza · circuit de Horcones",
+      "url": "https://www.mendoza.gov.ar/prensa/balance-de-la-temporada-en-el-parque-aconcagua/"
+    },
+    {
+      "title": "La Ruta Natural · Cueva de las Manos",
+      "url": "https://www.larutanatural.gob.ar/es/circuito/21/los-antiguos-lago-posadas-y-cueva-de-las-manos"
+    },
+    {
+      "title": "Buenos Aires · cimetière de Recoleta",
+      "url": "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/cementerio-de-la-recoleta"
+    },
+    {
+      "title": "Buenos Aires · Teatro Colón",
+      "url": "https://turismo.buenosaires.gob.ar/es/otros-establecimientos/teatro-col%C3%B3n"
+    },
+    {
+      "title": "Parcs nationaux · randonnée à El Chaltén",
+      "url": "https://www.argentina.gob.ar/jefatura/turismo/viaja-por-argentina/hacer-trekking-en-el-chalten"
+    },
+    {
+      "title": "Visit Argentina · Los Glaciares",
+      "url": "https://www.argentina.travel/planea-tu-viaje/parque-nacional-los-glaciares-el-chalten-y-el-calafate-santa-cruz"
+    },
+    {
+      "title": "Parc national Nahuel Huapi · site officiel",
+      "url": "https://nahuelhuapi.gov.ar/"
+    }
+  ]
+}
